@@ -30,21 +30,6 @@ NOTE: Day 1 of the meeting is going to be the PATCG meeting; see [PATCG Meeting]
 
 [See](https://github.com/w3c/patwg/issues/1)
 
-## Joining Information
+Since this is a joint meeting of the WG and CG we will keep the agenda at the CG for this meeting. 
 
-Zoom: TBD
-Google Doc: TBD
-
-## W3C Read All About It!
-
-[W3C Policy Slide](https://github.com/patcg/meetings/blob/main/W3C%20Read%20All%20About%20It!.pdf)
-
-## Agenda
-
-### Day 1
-
-TBD
-
-## Minutes
-
-TBD
+[You can find that agenda here](https://github.com/patcg/meetings/tree/main/2024/12/17-telecon).

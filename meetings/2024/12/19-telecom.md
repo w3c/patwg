@@ -1,6 +1,6 @@
 # December 2024 Virtual Meeting
 
-The Private Advertising Technology Working Group's meeting will be meeting one days for 3 hours.
+The Private Advertising Technology Working Group's meeting will be meeting one day for 3 hours.
 
 NOTE: Day 1 of the meeting is going to be the PATCG meeting; see [PATCG Meeting](https://github.com/patcg/meetings/blob/main/2024/12/17-telecon/README.md).
 
@@ -33,3 +33,5 @@ NOTE: Day 1 of the meeting is going to be the PATCG meeting; see [PATCG Meeting]
 Since this is a joint meeting of the WG and CG we will keep the agenda at the CG for this meeting. 
 
 [You can find that agenda here](https://github.com/patcg/meetings/tree/main/2024/12/17-telecon).
+
+Also, you can find the meeting info on the [PAT Calendar](https://www.w3.org/groups/wg/pat/calendar/).

@@ -2,7 +2,7 @@
 name: Full Meeting agenda
 about: Full Meeting Agenda discussion for a given PAT Working Group meeting. Discusion of all proposed agenda items. 
 title: '[agenda] 2024-1x-xx'
-labels: 'agenda'
+labels: 'announcements'
 assignees: 'AramZS,seanturner'
 
 ---

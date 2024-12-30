@@ -1,6 +1,6 @@
 ---
 name: Agenda Item template
-about: Use this template to add an item to the next meeting's agenda
+about: Use this template to propose a new item for the next meeting's agenda
 title: 'Agenda Request -  '
 labels: agenda+
 assignees: AramZS, seanturner

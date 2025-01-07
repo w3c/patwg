@@ -8,7 +8,7 @@ Timezones:
 
 Meetings and Dates:
 
-| Month | Days | Timezone |
+| Month | Day | Timezone |
 | ---------------- | ------ | ------------- |
 | January |  14 | A |
 | February | 11 | B |
@@ -20,5 +20,5 @@ Meetings and Dates:
 | August | 12 | B |
 | September | 9 | C |
 | October | 14 | A |
-| November | 11 | TPAC |
+| November | ?? | TPAC |
 | December | 09 | B |

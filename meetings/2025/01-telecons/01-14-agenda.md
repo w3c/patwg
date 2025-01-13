@@ -1,1 +1,1 @@
-Draft agenda can be found [here](https://github.com/w3c/patwg/issues/12).
+The Private Advertising Technology Working Group meeting was canceled.

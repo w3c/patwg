@@ -1,1 +1,1 @@
-Placeholder for final minutes that will be developed based on the live notes, which can be found [here](https://docs.google.com/document/d/1dA3XyqFQ20PLLhuvm0NTqZt7jIBPTiClB7esA9VHsFY/edit?usp=sharing).
+he Private Advertising Technology Working Group meeting was canceled.

@@ -10,7 +10,7 @@ Meetings and Dates:
 
 | Month | Day | Timezone |
 | ---------------- | ------ | ------------- |
-| January |  14 | A |
+| January - CANCELED |  14 | A |
 | February | 11 | B |
 | March | 11 | C |
 | April | 15 | A |

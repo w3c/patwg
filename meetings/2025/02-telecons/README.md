@@ -18,3 +18,13 @@ The agenda is being developed [here](https://github.com/w3c/patwg/issues/20) and
 Live minutes are [here](https://docs.google.com/document/d/1dA3XyqFQ20PLLhuvm0NTqZt7jIBPTiClB7esA9VHsFY/edit?usp=sharing) and final minutes are [here](https://github.com/w3c/patwg/blob/main/meetings/2025/02-telecons/02-11-minutes.md)
 
 Also, you can find the meeting info on the [PAT Calendar](https://www.w3.org/groups/wg/pat/calendar/).
+
+## Agenda
+
+### Day 1
+
+- <= 30m: Hellos, Intros, Policies, Google Doc, Call for Scribes
+- => 1.5 hours: PPA Discussion Topics
+  - [Partial Conversion Values](https://github.com/w3c/ppa/issues/16)
+  - [Inconsistent IDL naming: aggregationServices vs aggregators](https://github.com/w3c/ppa/issues/66)
+  - [Avoid using floating point arithmetic for privacy budget](https://github.com/w3c/ppa/issues/77)

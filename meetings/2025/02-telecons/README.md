@@ -1,6 +1,6 @@
 # February 2025 Virtual Meeting
 
-The Private Advertising Technology Working Group will meet for 2 hours on 2025-01-11; 2025-01-10 for some timezones.
+The Private Advertising Technology Working Group will meet for 2 hours on 2025-02-11; 2025-02-10 for some timezones.
 
 ## Schedule
 

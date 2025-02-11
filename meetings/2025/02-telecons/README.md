@@ -36,3 +36,4 @@ Also, you can find the meeting info on the [PAT Calendar](https://www.w3.org/gro
   - [Partial Conversion Values](https://github.com/w3c/ppa/issues/16)
   - [Inconsistent IDL naming: aggregationServices vs aggregators](https://github.com/w3c/ppa/issues/66)
   - [Avoid using floating point arithmetic for privacy budget](https://github.com/w3c/ppa/issues/77)
+  - [Initial detail of HTTP API](https://github.com/w3c/ppa/pull/56)

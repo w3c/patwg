@@ -11,7 +11,7 @@ Meetings and Dates:
 | Month | Day | Timezone |
 | ---------------- | ------ | ------------- |
 | January - CANCELED |  14 | A |
-| February | 11 | B |
+| [February](https://github.com/w3c/patwg/tree/main/meetings/2025/02-telecons) | 11 | B |
 | March | 11 | C |
 | April | 15 | A |
 | May | 13 | B |

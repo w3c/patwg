@@ -1,6 +1,6 @@
 # Private Advertising Technology WG - 2024-12-19
 
-## Attendees {#attendees}
+## Attendees
 
 1. Sean Turner (sn3rd)  
 2. Aram Zucker-Scharff (The Washington Post)  
@@ -35,7 +35,7 @@
 
 Sean: Welcome to the first meeting\!  It's been a long time coming, glad that we are finally a formed group.  
 
-\[Round of introductions, since it is the first meeting — see participants [list](#attendees).\]
+\[Round of introductions, since it is the first meeting — see participants [list](#Attendees).\]
 
 Please use the \#patwg channel on W3 slack for back-channel chatter
 

@@ -15,7 +15,7 @@ assignees: 'AramZS,seanturner'
    1. ["Discuss" Issues](https://github.com/w3c/ppa/issues?q=state%3Aopen%20label%3A%22discuss%22)
    2. ["Other" Issues](https://github.com/patcg/ppa-api/issues?q=state%3Aopen%20-label%3A%22discuss%22%20%20is%3Aissue)
 1. AOB
-2. Next Meeting's Information & Logistics
+2. Future Meetings Information & Logistics
 3. Review of Action Items From This Meetting
 
 ---

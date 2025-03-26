@@ -1,4 +1,4 @@
-The Private Advertising Technology Working Group will meet for one day for 2 hours on 2025-04-18; 2025-04-16 for some timezones.
+The Private Advertising Technology Working Group will meet for one day for 2 hours on 2025-04-15; 2025-04-16 for some timezones.
 
  ## Schedule
 

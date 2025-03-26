@@ -15,7 +15,7 @@ Meetings and Dates:
 | March | 11 | C |
 | April | 15 | A |
 | May | 13 | B |
-| June | 10 | C |
+| June - F2F | 10 & 11 | Paris Time |
 | July | 15 | A |
 | August | 12 | B |
 | September | 9 | C |

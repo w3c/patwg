@@ -12,8 +12,8 @@ Meetings and Dates:
 | ---------------- | ------ | ------------- |
 | January - CANCELED |  14 | A |
 | [February](https://github.com/w3c/patwg/tree/main/meetings/2025/02-telecons) | 11 | B |
-| March | 11 | C |
-| April | 15 | A |
+| [March](https://github.com/w3c/patwg/tree/main/meetings/2025/03-telecons) | 11 | C |
+| [April](https://github.com/w3c/patwg/tree/main/meetings/2025/04-telecons) | 15 | A |
 | May | 13 | B |
 | June - F2F | 10 & 11 | Paris Time |
 | July | 15 | A |

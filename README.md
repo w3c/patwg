@@ -16,7 +16,7 @@ The Group uses [Slack #patwg](https://w3ccommunity.slack.com/).
 
 ## PPA Repo
 
-The WG's First Public Working Draft is being developed in the [PPA repo](https://github.com/w3c/ppa). Please consult the Process Explainer [insert link].
+The WG's First Public Working Draft is being developed in the [PPA repo](https://github.com/w3c/ppa). Please consult the [Process Explainer](https://github.com/w3c/ppa/blob/main/process.md).
 
 ## Other
 

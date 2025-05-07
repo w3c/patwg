@@ -1,1 +1,1 @@
-he Private Advertising Technology Working Group meeting was canceled.
+The Private Advertising Technology Working Group meeting was canceled.

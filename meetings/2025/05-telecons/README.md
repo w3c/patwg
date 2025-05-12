@@ -13,7 +13,7 @@ The Private Advertising Technology Working Group will meet for 2 hours on 2025-0
 | 02:00 (02 AM) | 13 Tue | Boston        |
 | 11:00 (11 PM) | 12 Mon | Seattle       |
 
-The agenda is being developed **here** and the final agenda can be found [here](https://github.com/w3c/patwg/blob/main/meetings/2025/05-telecons/05-13-agenda.md).
+The agenda is being developed [here](https://github.com/w3c/patwg/issues/43) and the final agenda can be found [here](https://github.com/w3c/patwg/blob/main/meetings/2025/05-telecons/05-13-agenda.md).
 
 Live minutes are [here](https://docs.google.com/document/d/17xZrURZFX5iMTw_vsef-u6bn_MiSxxTE_FOTbCBcFCo/edit?usp=sharing) and final minutes are [here](https://github.com/w3c/patwg/blob/main/meetings/2025/05-telecons/05-13-minutes.md).
 

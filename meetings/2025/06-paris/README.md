@@ -2,7 +2,7 @@
 
 The Private Advertising Technology Working Group will be meeting at a Criteo's office in Paris, France
 @ [32 Rue Blanche, 75009 Paris, France](https://www.google.com/maps/place/Criteo/@48.8789908,2.3290313,17z/data=!3m2!4b1!5s0x47e66e4900b312a7:0xe451e104240fee06!4m6!3m5!1s0x47e66e04d509ec8f:0xbf35e94464e752f7!8m2!3d48.8789873!4d2.3316116!16s%2Fg%2F1tk6v6sn?entry=ttu&g_ep=EgoyMDI1MDUyOC4wIKXMDSoASAFQAw%3D%3D). in a hybrid format; we will support both in-person
-and remote attendees. Each day the meeting will last for 6.5 hours (with breaks).
+and remote attendees. Each day the meeting will last for 8 hours (with breaks).
 
 ## Schedule
 

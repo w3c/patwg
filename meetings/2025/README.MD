@@ -14,8 +14,8 @@ Meetings and Dates:
 | [February](https://github.com/w3c/patwg/tree/main/meetings/2025/02-telecons) | 11 | B |
 | [March](https://github.com/w3c/patwg/tree/main/meetings/2025/03-telecons) | 11 | C |
 | [April](https://github.com/w3c/patwg/tree/main/meetings/2025/04-telecons) | 15 | A |
-| May | 13 | B |
-| June - F2F | 10 & 11 | Paris Time |
+| [May](https://github.com/w3c/patwg/tree/main/meetings/2025/05-telecons) | 13 | B |
+| [June - F2F](https://github.com/w3c/patwg/tree/main/meetings/2025/06-paris) | 10 & 11 | [Paris Time](](https://github.com/w3c/patwg/blob/seanturner-create-06-2025-meeting/meetings/2025/06-paris/README.md)) |
 | July | 15 | A |
 | August | 12 | B |
 | September | 9 | C |

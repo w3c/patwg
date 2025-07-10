@@ -1,0 +1,1 @@
+Placeholder for final minutes that will be developed based on the live notes, which can be found [here](https://docs.google.com/document/d/1U7uR1tdwsF4UB74KPYwJHzrpZAcxziIw218I-eAGaJU/edit?usp=sharing).

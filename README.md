@@ -14,9 +14,9 @@ The Group's meeting's logistics information, minutes, and final agendas can be f
 
 The Group uses [Slack #patwg](https://w3ccommunity.slack.com/).
 
-## PPA Repo
+## Attribution Repo
 
-The WG's First Public Working Draft is being developed in the [PPA repo](https://github.com/w3c/ppa). Please consult the [Process Explainer](https://github.com/w3c/ppa/blob/main/process.md).
+The WG's First Public Working Draft is being developed in the [Attribution repo](https://github.com/w3c/attribution). Please consult the [Process Explainer](https://github.com/w3c/ppa/blob/main/process.md).
 
 ## Other
 

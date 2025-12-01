@@ -21,4 +21,4 @@ Meetings and Dates:
 | [September](https://github.com/w3c/patwg/tree/main/meetings/2025/09-telecons) | 9 | C |
 | [October](https://github.com/w3c/patwg/tree/main/meetings/2025/10-telecons) | 14 | A |
 | [November](https://github.com/w3c/patwg/tree/main/meetings/2025/11-tpac) | 13 | [TPAC](https://www.w3.org/2025/11/TPAC/schedule.html#thursday) |
-| December | 09 | B |
+| [December](https://github.com/w3c/patwg/tree/main/meetings/2025/12-telecons) | 09 | B |

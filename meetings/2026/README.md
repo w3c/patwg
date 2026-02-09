@@ -10,8 +10,8 @@ Meetings and Dates:
 
 | Month | Day | Timezone |
 | ---------------- | ------ | ------------- |
-| [January](https://github.com/w3c/patwg/tree/seanturner-create-202601-meeting/meetings/2026/01-telecons) |  13 | C |
-| February | 10 | A |
+| [January](https://github.com/w3c/patwg/tree/main/meetings/2026/01-telecons) |  13 | C |
+| [February](https://github.com/w3c/patwg/tree/main/meetings/2026/02-telecons) | 10 | A |
 | March | 3 | B |
 | April | 7 | C |
 | May | 2-3 days w/o 11 May | Europe |

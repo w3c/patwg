@@ -2,26 +2,26 @@
 
 ## Joining Instructions
 
-See Web Calendar: [https://www.w3.org/groups/wg/pat/calendar/](https://www.w3.org/groups/wg/pat/calendar/)  
-Slack invite: [https://www.w3.org/slack-w3ccommunity-invite](https://www.w3.org/slack-w3ccommunity-invite)  
-Our group is called [“patwg”](https://app.slack.com/client/T010EGK9PQE/C07LUM00Z6E)  
-Zoom: [https://w3c.zoom.us/j/89760362590?pwd=bQxy6olLu4sfbZtq2oBsSU5Hv74okF.1](https://w3c.zoom.us/j/89760362590?pwd=bQxy6olLu4sfbZtq2oBsSU5Hv74okF.1) 
+See Web Calendar: [https://www.w3.org/groups/wg/pat/calendar/](https://www.w3.org/groups/wg/pat/calendar/)
+Slack invite: [https://www.w3.org/slack-w3ccommunity-invite](https://www.w3.org/slack-w3ccommunity-invite)
+Our group is called [“patwg”](https://app.slack.com/client/T010EGK9PQE/C07LUM00Z6E)
+Zoom: [https://w3c.zoom.us/j/89760362590?pwd=bQxy6olLu4sfbZtq2oBsSU5Hv74okF.1](https://w3c.zoom.us/j/89760362590?pwd=bQxy6olLu4sfbZtq2oBsSU5Hv74okF.1)
 
 ## Scribes
 
-* kleber  
-* 
+* kleber
+*
 
 ## Proposed Agenda
 
-1. Introductions, Code of Conduct, Minutes Document, Scribes  
-2. Review of Action Items from Previous Meeting(s)  
-3. PPA Discussion Topics  
-   1. ["Discuss" Issues](https://github.com/w3c/ppa/issues?q=state%3Aopen%20label%3A%22discuss%22)  
-      1. TBD   
-   2. ["Other" Issues](https://github.com/patcg/ppa-api/issues?q=state%3Aopen%20-label%3A%22discuss%22%20%20is%3Aissue)  
-4. AOB  
-5. Future Meetings Information & Logistics  
+1. Introductions, Code of Conduct, Minutes Document, Scribes
+2. Review of Action Items from Previous Meeting(s)
+3. PPA Discussion Topics
+   1. ["Discuss" Issues](https://github.com/w3c/ppa/issues?q=state%3Aopen%20label%3A%22discuss%22)
+      1. TBD
+   2. ["Other" Issues](https://github.com/patcg/ppa-api/issues?q=state%3Aopen%20-label%3A%22discuss%22%20%20is%3Aissue)
+4. AOB
+5. Future Meetings Information & Logistics
 6. Review of Action Items From This Meeting
 
 ## Introductions, Code of Conduct, Minutes Document, Scribes
@@ -30,13 +30,13 @@ Reading of the riot act, rules of the road, etc…
 
 ## Review of Action Items
 
-- [ ] Aram [**MOVE TO CG**](https://github.com/patcg/meetings/issues/227): Create a repo for use cases or workflows that demonstrates how the API actually services those cases.  We should provide a template for on-going use cases.  
-      - [ ] Demonstration HTML (a cookbook) with code for both the impression and conversion side.  Ie: full, correct transactions (illustrating how to confirm the transactions were successful; expectation of outcomes) (Example \-\[ Live URL Viewer\](https://jsdom.github.io/whatwg-url/\#url=aHR0cHM6Ly9leGFtcGxlLmNvbS8=\&base=YWJvdXQ6Ymxhbms=))  
-- [ ] Develop Web Platform Tests in PPA (repo)  
-      * Aram: Create issue for people to document their important flows for future test coverage  
-- [x] ~~Aram (following Brian May’s write-up): Submit issue to *CG* agenda around definition of last-touch and if we need more in the enum for level 1 logic options.~~  
-- [ ] Brian and Miguel to provide feedback on [Issue \#204](https://github.com/w3c/attribution/issues/204)  
-- [ ] Brian and Miguel  to provide feedback on [Issue \#222](https://github.com/w3c/attribution/issues/222%20)  
+- [ ] Aram [**MOVE TO CG**](https://github.com/patcg/meetings/issues/227): Create a repo for use cases or workflows that demonstrates how the API actually services those cases.  We should provide a template for on-going use cases.
+      - [ ] Demonstration HTML (a cookbook) with code for both the impression and conversion side.  Ie: full, correct transactions (illustrating how to confirm the transactions were successful; expectation of outcomes) (Example \-\[ Live URL Viewer\](https://jsdom.github.io/whatwg-url/\#url=aHR0cHM6Ly9leGFtcGxlLmNvbS8=\&base=YWJvdXQ6Ymxhbms=))
+- [ ] Develop Web Platform Tests in PPA (repo)
+      * Aram: Create issue for people to document their important flows for future test coverage
+- [x] ~~Aram (following Brian May’s write-up): Submit issue to *CG* agenda around definition of last-touch and if we need more in the enum for level 1 logic options.~~
+- [ ] Brian and Miguel to provide feedback on [Issue \#204](https://github.com/w3c/attribution/issues/204)
+- [ ] Brian and Miguel  to provide feedback on [Issue \#222](https://github.com/w3c/attribution/issues/222%20)
       * Miguel couldn't join today, but will add some references for this to a recent IAB Tech Lab document on "IAB Tech Lab Attribution Use Cases:" https://iabtechlab.com/identity-addressability-privacy/attribution-use-cases/
 
 ## PPA Discussion Topics
@@ -63,7 +63,7 @@ Martin: We've talked about combinations of impressions where we run whole progra
 
 Brian: So you're suggestions treat each campaign as an independent conversion, from the conversion call point of view?
 
-Martin: Yes.  In a perfect world they would each be completely independent.  If you have cross-talk and people who see ad A1 are less likely to be moved by ad B3, you won't pick that up. 
+Martin: Yes.  In a perfect world they would each be completely independent.  If you have cross-talk and people who see ad A1 are less likely to be moved by ad B3, you won't pick that up.
 
 Brian: If I can see all the impressions and I can apply it to all the campaigns, that's what I want.  If I only see some of my impressions, I'm losing information.
 
@@ -101,7 +101,7 @@ Martin: It should map directly to API calls, if you care to dig in.  We can impr
 
 Ben Case: There are some places in the spec where we're describing what we can prove formally, in an ideal model.  The per-side guarantees rest on some assumptions, which are necessary for the proofs to hold up.
 
-Assumption 1: There is no cross-site data adaptivity of queries being made.  
+Assumption 1: There is no cross-site data adaptivity of queries being made.
 Assumption 2: The cross-site limits (safety or rate limits) can introduce more cross-site dependencies, which will keep us from proving per-site guarantees.
 
 First assumption:  If we're dealing with multiple sites that all influence the same user's behavior over time, that could well happen in the real world.  But that means that one site can have its outcomes influenced by a second site.  Second one: just a consequence of having safety limits.
@@ -124,8 +124,8 @@ Ben: Paper will be in a more updated state on the arXiv in a week or two.  Speak
 
 Martin: What's left to do?
 
-* The safety limits work that Ben was just talking about  
-* TEE implementation  
+* The safety limits work that Ben was just talking about
+* TEE implementation
 * side-channel discussion
 
 I think maybe get to CR snapshot sometime this year.  Does that seem right to everyone?
@@ -136,7 +136,7 @@ Charlie: Can you give folks a reminder about what CR snapshot means, from a Proc
 
 Sean: The fact that it's testable and you have that thing live, and you test against the API to get platform tests operational, is a big deal.
 
-Martin: Part of the exercise might be going through the list of issues and labeling the ones that are blocking?  
+Martin: Part of the exercise might be going through the list of issues and labeling the ones that are blocking?
 
 Charlie: Yes, let's add a "blocking" label to issues in github, so that we can be clear.  I raised a few issues that I thought might qualify — small things that might be deal-breakers but are not hard, just haven't gotten the little bit of attention they need
 
@@ -146,7 +146,7 @@ Martin: I just did
 
 Aram: We chose "Continuous Release" process model in our charter (we think?).  [https://www.w3.org/policies/process/\#transition-reqs](https://www.w3.org/policies/process/#transition-reqs) "Working Draft" is where we are now.  In order to reach Rec status, which is our goal, we would go through a few processes: Working Draft, then becomes a Candidate Rec — satisfies the technical requirements, consider this version of the doc ready for technical review from the wider community.  The Snapshot, and then Draft, then transition request, to indicate the doc is at a greater level of maturity and ready for review by a wider community.  Then if the W3C approves, goes to Candidate Rec stage.  Then goes through horizontal review process, then by the TAG.  (Martin: Privacy, Accessibility, Security, and TAG are basically all horizontal review groups)  We may need to make additional changes, if there are substantial changes might need to get reviewed again.  Then goes to Recommendation status.
 
-The continuous review model takes the idea that there is a "sliding window" — as we get this particular version of the rec moving forward along that track, we can also work on the next version with new features at the same time.  
+The continuous review model takes the idea that there is a "sliding window" — as we get this particular version of the rec moving forward along that track, we can also work on the next version with new features at the same time.
 
 Sean: Charter recommends 3 months before CR process.
 
@@ -222,20 +222,20 @@ Martin: Not trivial, asking browsers to change all of these things, but it will 
 
 Going through open issue list [https://github.com/w3c/attribution/issues](https://github.com/w3c/attribution/issues), oldest-to-newest, applying label "cr-blocker" when needed
 
-[https://github.com/w3c/attribution/issues/25](https://github.com/w3c/attribution/issues/25) \- closed  
-[https://github.com/w3c/attribution/issues/26](https://github.com/w3c/attribution/issues/26) \- editorial no need to block on it  
+[https://github.com/w3c/attribution/issues/25](https://github.com/w3c/attribution/issues/25) \- closed
+[https://github.com/w3c/attribution/issues/26](https://github.com/w3c/attribution/issues/26) \- editorial no need to block on it
 [https://github.com/w3c/attribution/issues/31](https://github.com/w3c/attribution/issues/31) \- might be hard to test \- is it a blocker?
 
-* Already did this for impressions which maybe was the lion's share of importance; do we need it for conversions also?  
-* Chrome's experience is that there are indeed advertisers unwilling to host 3p JS, so we will need it at some point, just a question of whether we need it now or could do it as a fast-follow?  
-* Aram: I do have concerns — once JS is on a page, hard to get it off.  We're a privacy-based API, we should go out of our way to cater to the needs of privacy-conscious sites.  Would have a lot of value, if it would be additional years of work then maybe could put it off but unless that's the story, I think we should have it now  
-* Brian: Agreed, and also I think this would be good to show during wide review.  
-* Martin: This is big-ish, maybe the difference between finishing this year vs next year  
-* Charlie: I think it's not the end of the world if we want to block on it  
-* Brian: Label to block on it for the time being  
-* Aram: This is worthwhile enough that we should delay on it if it would be a month, irrespective of any end-of-year kind of hoped-for deadline.  This will be key in some ways  
-* Brian: Also think about the blog posts tearing into us for forcing JS  
-* Aram: We're going to get attack block posts anyway\!  
+* Already did this for impressions which maybe was the lion's share of importance; do we need it for conversions also?
+* Chrome's experience is that there are indeed advertisers unwilling to host 3p JS, so we will need it at some point, just a question of whether we need it now or could do it as a fast-follow?
+* Aram: I do have concerns — once JS is on a page, hard to get it off.  We're a privacy-based API, we should go out of our way to cater to the needs of privacy-conscious sites.  Would have a lot of value, if it would be additional years of work then maybe could put it off but unless that's the story, I think we should have it now
+* Brian: Agreed, and also I think this would be good to show during wide review.
+* Martin: This is big-ish, maybe the difference between finishing this year vs next year
+* Charlie: I think it's not the end of the world if we want to block on it
+* Brian: Label to block on it for the time being
+* Aram: This is worthwhile enough that we should delay on it if it would be a month, irrespective of any end-of-year kind of hoped-for deadline.  This will be key in some ways
+* Brian: Also think about the blog posts tearing into us for forcing JS
+* Aram: We're going to get attack block posts anyway\!
 * label added
 
 [https://github.com/w3c/attribution/issues/32](https://github.com/w3c/attribution/issues/32) \- Discussed numerous times. Not going to happen in first go. Lots of other delegation related issues.
@@ -244,7 +244,7 @@ Going through open issue list [https://github.com/w3c/attribution/issues](https:
 
 \#34 also on delegation, also not happening now.
 
-\#35 would need to be fixed in DAP spec, keep it open to track, nothing to block on 
+\#35 would need to be fixed in DAP spec, keep it open to track, nothing to block on
 
 \#36 closed.
 
@@ -264,10 +264,10 @@ Going through open issue list [https://github.com/w3c/attribution/issues](https:
 
 \#58: Integers?  BigNum?  Do we need to decide now?
 
-* Andrew: Don't need to decide now, related to questions about worklets in the future.    
-* Charlie: My feeling is we might want to bundle all the declarative API surface into one Issue; whether or not that issue blocks CR Level 1 is still TBD — the question is whether you can do anything useful with the declarative API.  Multiple histogram buckets?  More flexible match value?  Level 1 should enable some utility with the simplest API you can think of, and in prev meetings the JS API is the right path forward there.  Are advertisers going to oppose JS that runs in an isolated environment with no access to page contents?  Need to validate assumptions on JS worklet thing, which is safer than JS-in-iframe, but who knows what the security positions of different financial institutions are.   
-* Martin: We can improve the declarative stuff further, but gets increasingly difficult.  For this we have explicit limits, 2^52 and 999,999,999,999,999.  
-* Charlie: We should have in spec that the maximum is the max.  "We have a system that is filtering based on string, and would be nice to keep pretending that, so just hash the string" — 32-bid hash probably not enough, 52 is much better even if not cryptographically secure.  
+* Andrew: Don't need to decide now, related to questions about worklets in the future.
+* Charlie: My feeling is we might want to bundle all the declarative API surface into one Issue; whether or not that issue blocks CR Level 1 is still TBD — the question is whether you can do anything useful with the declarative API.  Multiple histogram buckets?  More flexible match value?  Level 1 should enable some utility with the simplest API you can think of, and in prev meetings the JS API is the right path forward there.  Are advertisers going to oppose JS that runs in an isolated environment with no access to page contents?  Need to validate assumptions on JS worklet thing, which is safer than JS-in-iframe, but who knows what the security positions of different financial institutions are.
+* Martin: We can improve the declarative stuff further, but gets increasingly difficult.  For this we have explicit limits, 2^52 and 999,999,999,999,999.
+* Charlie: We should have in spec that the maximum is the max.  "We have a system that is filtering based on string, and would be nice to keep pretending that, so just hash the string" — 32-bid hash probably not enough, 52 is much better even if not cryptographically secure.
 * Not CR-blocking, but gives us something to think about for the future.
 
 \#69: blocker defining global limits based on Roxana's report
@@ -276,16 +276,16 @@ Going through open issue list [https://github.com/w3c/attribution/issues](https:
 
 \#130: Technically we could go to CR without this, but wouldn't do any favors to people who want to use a TEE.
 
-* Brian: Get feedback from community?    
-* Charlie: Issue exists on performance characteristics of MPC implementation, which will affect priority of TEE impl.    
-* Martin: Histogram size is a distinct factor.  I'm inclined to keep this as not-a-blocker for now, but we should listen to voices that say otherwise.    
-* Brian: I suggest we *do* label as a blocker to force us to come back do it.    
+* Brian: Get feedback from community?
+* Charlie: Issue exists on performance characteristics of MPC implementation, which will affect priority of TEE impl.
+* Martin: Histogram size is a distinct factor.  I'm inclined to keep this as not-a-blocker for now, but we should listen to voices that say otherwise.
+* Brian: I suggest we *do* label as a blocker to force us to come back do it.
 * Martin: could label as "at-risk" in the spec?  Then if implementations don't show up, it doesn't make it into a full Rec.  Don't think we're at that point yet.
 
-\#146: Currently don't care about hostname, [https://localhost](https://localhost) would be fine, [http://localhost](http://localhost) would not.  
+\#146: Currently don't care about hostname, [https://localhost](https://localhost) would be fine, [http://localhost](http://localhost) would not.
 
-* Aram: I think this is fine, https for local testing is not an issue any more, we shouldn't even think we need to solve this.    
-* Charlie: for powerful feature we gate them on the potentially-trustworthy check, lots of things in web platform work that way, so my preference is to just align rather than rolling our own check.  If we want to change recommendation, do it at the potentially-trustworthy layer, not in our API  
+* Aram: I think this is fine, https for local testing is not an issue any more, we shouldn't even think we need to solve this.
+* Charlie: for powerful feature we gate them on the potentially-trustworthy check, lots of things in web platform work that way, so my preference is to just align rather than rolling our own check.  If we want to change recommendation, do it at the potentially-trustworthy layer, not in our API
 * Aram: throw some sort of warning if it comes up, to avoid silently failing and confusing developers
 
 \#151: editorial
@@ -306,15 +306,15 @@ Going through open issue list [https://github.com/w3c/attribution/issues](https:
 
 \#237: blocker, implement Roxana's work as applies to current spec.
 
-\#256: 
+\#256:
 
-* Martin: will be part of people's assessment of whether API is fit for purpose.   
-* Charlie: CR is when we look for reviews outside our group, I would like this reviewed by our group first.    
-* Martin: Is it being done a precondition for getting public review?    
-* Charlie: Worst case scenario is it's so bad we get laughed out of the room; that seems blocking.  Then we have to do work to improve crypto side.    
-* Ben: This is certainly the first thing people ask.  So maybe at least have numbers?    
-* Charlie: prepare two slides and present to CG, gauge reactions when potential users are in the room.    
-* Martin: Won't cost us much, the divvi-up folks have run performance tests  
+* Martin: will be part of people's assessment of whether API is fit for purpose.
+* Charlie: CR is when we look for reviews outside our group, I would like this reviewed by our group first.
+* Martin: Is it being done a precondition for getting public review?
+* Charlie: Worst case scenario is it's so bad we get laughed out of the room; that seems blocking.  Then we have to do work to improve crypto side.
+* Ben: This is certainly the first thing people ask.  So maybe at least have numbers?
+* Charlie: prepare two slides and present to CG, gauge reactions when potential users are in the room.
+* Martin: Won't cost us much, the divvi-up folks have run performance tests
 * Aram: Added agenda item to talk about this to CG
 
 \#270: blocker, can't be off by a factor of 2
@@ -331,28 +331,28 @@ Going through open issue list [https://github.com/w3c/attribution/issues](https:
 
 ## Future Meetings Information & Logistics
 
-- [ ] 14 October 2025 (Virtual)  
+- [ ] 14 October 2025 (Virtual)
 - [ ] TPAC 2025 (November, Kobe Japan).
 
 ## Review of Action Items From This Meeting
 
-- [ ] Develop Web Platform Tests in PPA (repo)  
-      * Aram: Create issue for people to document their important flows for future test coverage  
-- [ ] Brian and Miguel to provide feedback on [Issue \#204](https://github.com/w3c/attribution/issues/204)  
-- [ ] Brian and Miguel  to provide feedback on [Issue \#222](https://github.com/w3c/attribution/issues/222%20)  
+- [ ] Develop Web Platform Tests in PPA (repo)
+      * Aram: Create issue for people to document their important flows for future test coverage
+- [ ] Brian and Miguel to provide feedback on [Issue \#204](https://github.com/w3c/attribution/issues/204)
+- [ ] Brian and Miguel  to provide feedback on [Issue \#222](https://github.com/w3c/attribution/issues/222%20)
 - [ ] [Aram Zucker-Scharff](mailto:aram.zucker-scharff@washpost.com) \#256 should be reviewed by the Community Group
 
-## Participants {#participants}
+## Participants
 
-1. Sean Turner (sn3rd)  
-2. Aram Zucker-Scharff (The Washington Post)  
-3. Brian May (unaffiliated)   
-4. Andrew Paseltiner (Google Chrome)  
-5. Martin Thomson (Mozilla)  
-6. Benjamin Case (Meta)  
-7. Tara Whalen (W3C)   
-8. Charlie Harrison (Google Chrome)  
-9. Michael Kleber (Google Chrome)  
-10. Roxana Geambasu(Columbia)  
-11. Arpana Hosabettu (Google)  
+1. Sean Turner (sn3rd)
+2. Aram Zucker-Scharff (The Washington Post)
+3. Brian May (unaffiliated)
+4. Andrew Paseltiner (Google Chrome)
+5. Martin Thomson (Mozilla)
+6. Benjamin Case (Meta)
+7. Tara Whalen (W3C)
+8. Charlie Harrison (Google Chrome)
+9. Michael Kleber (Google Chrome)
+10. Roxana Geambasu(Columbia)
+11. Arpana Hosabettu (Google)
 12. Thomas Prieur (Criteo)

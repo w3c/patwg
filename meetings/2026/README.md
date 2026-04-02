@@ -13,7 +13,7 @@ Meetings and Dates:
 | [January](https://github.com/w3c/patwg/tree/main/meetings/2026/01-telecons) |  13 | C |
 | [February](https://github.com/w3c/patwg/tree/main/meetings/2026/02-telecons) | 10 | A |
 | [March](https://github.com/w3c/patwg/tree/main/meetings/2026/03-telecons) | 3 | B |
-| April | 7 | C |
+| [April](https://github.com/w3c/patwg/tree/main/meetings/2026/04-telecons) | 7 | C |
 | May | 2-3 days w/o 11 May | Europe |
 | June | 9 | A |
 | July | 14 | B |

@@ -72,6 +72,7 @@ These are just placeholders for now!
    1. ["Discuss" Issues](https://github.com/w3c/ppa/issues?q=state%3Aopen%20label%3A%22discuss%22)
        1. [Intermediaries using the Level 1 API](https://github.com/w3c/patwg/issues/44)
    1. ["Other" Issues](https://github.com/patcg/ppa-api/issues?q=state%3Aopen%20-label%3A%22discuss%22%20%20is%3Aissue)
+   1. What is after V1? Next steps. 
 
 ### Day 3
 

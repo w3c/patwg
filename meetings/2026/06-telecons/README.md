@@ -18,3 +18,5 @@ The Private Advertising Technology Working Group will meet for one day for 2 hou
  Live minutes are [here](https://docs.google.com/document/d/12RYUvFdTDfsZy8o0Bn_cdd_7wKc5oSz-3begx07bObc/edit?usp=sharing) and final minutes are [here](https://github.com/w3c/patwg/blob/main/meetings/2026/06-telecons/06-09-minutes.md)
 
  Also, you can find the meeting info on the [PAT Calendar](https://www.w3.org/groups/wg/pat/calendar/).
+
+ To JOIN USE THIS [Link](https://w3c.zoom.us/j/82659868398?pwd=R2wyMlVzVGcwcmZJb1BpZmdDc2crUT09).

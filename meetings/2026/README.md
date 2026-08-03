@@ -17,7 +17,7 @@ Meetings and Dates:
 | [May](https://github.com/w3c/patwg/tree/main/meetings/2026/05-berlin) | 12-14 May | Berlin |
 | [June](https://github.com/w3c/patwg/tree/main/meetings/2026/06-telecons) | 9 | A |
 | [July](https://github.com/w3c/patwg/tree/main/meetings/2026/07-telecons) | 14 | C |
-| August | 11 | C |
+| [August](https://github.com/w3c/patwg/tree/main/meetings/2026/08-telecons) | 11 | C |
 | September | 15 | A |
 | October | 26-30 | TPAC |
 | November | 17 | C |

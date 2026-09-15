@@ -19,6 +19,6 @@ Meetings and Dates:
 | [July](https://github.com/w3c/patwg/tree/main/meetings/2026/07-telecons) | 14 | C |
 | [August](https://github.com/w3c/patwg/tree/main/meetings/2026/08-telecons) | 11 | C |
 | [September](https://github.com/w3c/patwg/tree/main/meetings/2026/09-telecons) | 15 | A |
-| October | 26-30 | TPAC |
+| October | 30 | TPAC |
 | November | 17 | C |
 | December | 15 | A |

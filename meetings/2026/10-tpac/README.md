@@ -1,10 +1,10 @@
-# August 2026 Virtual Meeting
+# October 2026 TPAC Meeting
 
-The Private Advertising Technology Working Group will meet for 2 hours on 2026-08-11.
+The Private Advertising Technology Working Group will meet for 2 hours on 2026-10-30.
 
 ## Schedule
 
-TK
+Google Doc TK
 
 The agenda is being developed [here](https://github.com/w3c/patwg/issues/)
 

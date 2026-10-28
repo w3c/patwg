@@ -22,7 +22,7 @@
 13. [Add end-to-end regressions for global privacy budgets and publisher quotas](https://github.com/w3c/attribution/pull/503)
 14. [API misuse and information release](https://github.com/w3c/attribution/pull/500)
 15. [Add activation to simulator](https://github.com/w3c/attribution/pull/420)
-16. [Privacy and Tracking Analysis in response to PING](https://github.com/w3c/patwg/issues/102) (Hopefully we will have participants from the group to discuss)
+16. We will discuss this at 2pm local time, regardless of place on the agenda we left off. [Privacy and Tracking Analysis in response to PING](https://github.com/w3c/patwg/issues/102) (Hopefully we will have participants from the group to discuss)
 	- [how much privacy is provided? how will epsilon parameters be selected?](https://github.com/w3c/attribution/issues/494)
 	- [Concerns with communicating with attribution / ad servers when feature is disabled](https://github.com/w3c/attribution/issues/496)
 	- [How will abuse attempts be made visible?](https://github.com/w3c/attribution/issues/495)

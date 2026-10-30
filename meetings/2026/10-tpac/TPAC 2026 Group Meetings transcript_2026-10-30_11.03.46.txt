@@ -1,0 +1,1554 @@
+[TPAC Room 7] 09:50:38
+Are we okay with replacing scribing with transcripts for the purpose of this meeting? Yeah, please.
+
+[TPAC Room 7] 09:50:39
+Okay.
+
+[TPAC Room 7] 09:50:40
+Transcript is on. Uh, don't let me save… forget to save this.
+
+[TPAC Room 7] 09:50:50
+Yeah, so I think, yeah, if you could share, we have, um, to start, our reps, our participants from Samsung had a, uh, event that had some interesting findings. I wanted to give them, uh, at the top of the meeting, just a quick.
+
+[TPAC Room 7] 09:51:03
+Uh, period, to review what they found. Sure. So, whenever…
+
+[TPAC Room 7] 09:51:08
+Is it, am I, is my time here? Yes, go ahead. Sorry. Now, hello everyone. I am Ehsan. I think all of you, at least most of you already know me, but I'm from Samsung and I'm also a tech associate.
+
+[TPAC Room 7] 09:51:20
+So I'm going to be very quick just for the sake of time for others, but it's about the workshop that the Myanmar actually ran. It was supposed to be early '26, but because it was in Dubai and the war happened, so it was postponed.
+
+[TPAC Room 7] 09:51:37
+to some other time during June. Yep. You said about the workshop. I'm looking at the transcript. Could you repeat who you ran the workshop with, which now says Yanvar. Oh, it's not going to get it right. Trust me. Yeah, it's fine. Say M. M. It's fine. M. Yes. Mr. M. James Wong. But still.
+
+[TPAC Room 7] 09:52:01
+But anyway, uh, I'm gonna… it's… it was… it was mainly an academic sort of event, so the findings that were there is very much tailored for their point of view, so… but I tried to extract some useful things that can have some more engineering focus, and especially for the.
+
+[TPAC Room 7] 09:52:19
+sake of our group here, but this is just an overview of what has happened on 29th of June. It was a full-day event, it was remote, as I said, because of the war, so it had two tracks. Research track, which was mainly, like, an academic sort of event.
+
+[TPAC Room 7] 09:52:36
+with research papers, peer reviewed all with rigorous sort of basically review process and everything else. So it contained a series of question and answering after each each presentation, and then.
+
+[TPAC Room 7] 09:52:50
+Uh, the next half of the day was exploration engines, so we tried to focus on two specific themes, immersive technologies and how advertising should work in those, those sort of new trends, and then post-cookie advertising, with a specific focus on, uh, basically, so what's gonna happen when, when things are more privacy-preserving.
+
+[TPAC Room 7] 09:53:10
+which are keeping our minds open to that, and then basically try to see what's… how the flow goes, and then trying to come up with some sort of concrete idea. So, many of them, as I said, are very much synthetic of these two… these two different tracks.
+
+[TPAC Room 7] 09:53:25
+So we have accepted five papers eventually. They were all very, very interesting from my point of view. DoorDash and Snap were there as well, so we had some sort of an academic/research sort of.
+
+[TPAC Room 7] 09:53:42
+slash engineering mindsets involved in the discussions. But all of these papers are free to access, so if you want, if any of the specific ones that caught your attention, I can put you in contact with the authors.
+
+[TPAC Room 7] 09:53:58
+My… me and my… we were the chairs of the workshop, so I… my role here is just to transfer the knowledge that I… I learned during that event to you, and then see if anything you like, I just put you in contact with the people.
+
+[TPAC Room 7] 09:54:13
+So, any questions regarding the papers, I try my best to answer, but I… I wouldn't be the best person to answer those.
+
+[TPAC Room 7] 09:54:23
+So, one thing, I just want to categorize the things that they come up with. So, one thing that happened a lot during the conversations, especially for the post-cookie brainstorming, was actually…
+
+[TPAC Room 7] 09:54:38
+uh, what is… what is the advertising chain in… when there… it's an export involved, then the AI browsers are involved. So it's kind of like the, uh…
+
+[TPAC Room 7] 09:54:49
+basically, none of the, uh, user activation, conventional user activation that we already defined in what, uh, Kaggle or any, anywhere else is, is basically.
+
+[TPAC Room 7] 09:55:00
+might become a little bit less… less, kind of, relevant in near future, so it's a good idea to have a look at that with… with open mind. So, especially one… one thing that I can… I can just propose to the working group and core community group to include some sort of Agentic scenarios for.
+
+[TPAC Room 7] 09:55:20
+for what… what is the… what is your vision at this… at this station. That… that could be, uh, not a complicated thing, but I already see there are some attempts for agenting advertising management protocols, uh, in ILAP tech…
+
+[TPAC Room 7] 09:55:35
+IMLabs, basically, so I don't know if you are aware of it, but I just thought that it was mentioned, so I just put it here that there is already work happening there. It might be good to have a look at that corner.
+
+[TPAC Room 7] 09:55:49
+So, one other thing, uh, basically related to that, that topic was basically what is the definitions of agent media recommendation, because.
+
+[TPAC Room 7] 09:55:59
+in many of the cases, before all the… many of the recommendations happen before actually the page appears, so it's before the loading, everything is just already decided, in a way. So, and… but, uh, those behaviors are a little bit unknown from my point of view, so, um, especially before.
+
+[TPAC Room 7] 09:56:20
+these behaviors become part of the business without kind of standardization. It might be good to just.
+
+[TPAC Room 7] 09:56:29
+have some… feel that evidence gap, that, uh, whether user read agent recommendation as neutral, personalized, or paid, what is their point of view in their, uh, in that sort of scenarios? The user's point of view, of course.
+
+[TPAC Room 7] 09:56:44
+So, another thing that has happened during the workshop with a lot of discussions, from my point of view, was very interesting, was the level of fraud and the industrialization that has happened. So, one of the papers especially had one of one.
+
+[TPAC Room 7] 09:56:58
+One and a half year study of how fraud is organized, and their finding is just…
+
+[TPAC Room 7] 09:57:05
+To create a convincing fish, there is a tremendous reduction in time. It's around five minutes now. Campaigns are 14 times more than before. And very interestingly, synthetic audio is one of the very popular modes of generative usage of generative AI.
+
+[TPAC Room 7] 09:57:23
+Which I kind of expected that could happen, but, uh, 95 is still a big number.
+
+[TPAC Room 7] 09:57:30
+So, uh…
+
+[TPAC Room 7] 09:57:34
+Then the…
+
+[TPAC Room 7] 09:57:35
+follow-up on that was actually what… what could happen in that, uh, when the fraud is in the service at that scale. So, I… I kinda… there… there have been some discussions on how the signal… fraud signal should be… should be, uh, basically.
+
+[TPAC Room 7] 09:57:53
+uh, managed in that, uh, in that scenarios. And there were some suggestions of how we can focus on the campaigns instead of one ad at a time, uh, basically, analysis for fraud.
+
+[TPAC Room 7] 09:58:06
+So one thing that might, I find might be interesting with the yesterday's, it was the anti-fraud mall protocol that was discussed. It was discussing something similar, that's why I tried to explore it more.
+
+[TPAC Room 7] 09:58:22
+So, I kind of think there might be some relevance for some privacy-preserving abuse signal using some similarities with just anonymous credentials or something like that. I'm not sure about it, but the whole point is, uh.
+
+[TPAC Room 7] 09:58:39
+Let's consider to have some sort of fraud signal involved in the threat model.
+
+[TPAC Room 7] 09:58:46
+So, another thing that has happened during the discussions, and I'm just the mediator of that, is basically how the monetization should happen, especially in a smaller publisher site.
+
+[TPAC Room 7] 09:59:02
+a minimal content access standard could be one of the ways to go. So, for example.
+
+[TPAC Room 7] 09:59:08
+when you ask Agent to summarize the page, what would be the publisher's cut in that? So that should…
+
+[TPAC Room 7] 09:59:17
+could be one of the things, uh, that comes as monetization protocols. There have been a…
+
+[TPAC Room 7] 09:59:25
+Some discussions regarding that, uh, but, uh…
+
+[TPAC Room 7] 09:59:28
+If it's something that can be explored more, of course I can dig more into that. But I kind of anticipate, it's my personal opinion here, that could be a near-term problem and maybe it's even a low-hanging fruit in that matter.
+
+[TPAC Room 7] 09:59:46
+That last part was basically focusing on how brand safety.
+
+[TPAC Room 7] 09:59:51
+Is assessed, basically, in terms of the, uh… first of all, the…
+
+[TPAC Room 7] 09:59:59
+conversational chats between human and…
+
+[TPAC Room 7] 10:00:02
+basically, models. So, uh, the results that I… I have seen here is… I don't think it's very controversial or very, sort of, revolutionary, but, uh, kinda, if you fine-tune models.
+
+[TPAC Room 7] 10:00:17
+it's gonna be good, but, uh, usually the zero-shot LLMs or ChatGPT kinda can handle the strict, uh, explicit content, but when it gets to more controversial social contexts, they lag behind, and they cannot recognize the content.
+
+[TPAC Room 7] 10:00:35
+and then… then look into the brand safety approaches regarding that. So, that was one other thing. The other one, which I think this might be relevant to… to the, uh, attribute… private attribution API here, is there was a couple of… two papers, especially focused on.
+
+[TPAC Room 7] 10:00:53
+small budget campaigns and, uh, basically short-paced, small, uh, short-paced sort of campaign. Uh, and one of them was using control methods to, to just explore how they can optimize their small budget campaigns.
+
+[TPAC Room 7] 10:01:08
+But, uh… another one was focusing on the overdelivery of… efficiency of the overdelivery, and I think…
+
+[TPAC Room 7] 10:01:15
+The… that delay between the end of the campaign and then the… the… basically the… having access to the results of the conversion, uh…
+
+[TPAC Room 7] 10:01:25
+can be somehow, uh, controlled better, or at least considered in… from… from your point of view, that what… what can private attribution do in that… in that scenario? Is that the campaigns are short time, small budget, but at the same time, they need some sort of a tangible, reliable delivery of.
+
+[TPAC Room 7] 10:01:43
+of results doing that.
+
+[TPAC Room 7] 10:01:45
+So, last part was about how humans can understand narratives. It was very interesting to look at, and very interestingly, I find the results a little bit interesting, more interesting at least from my point of view.
+
+[TPAC Room 7] 10:02:01
+the humans tends to less agree on, on tension, uh, when it comes, comparing to LLMs. So, uh, yeah, they, they were more kind of, uh.
+
+[TPAC Room 7] 10:02:12
+successfully in recognizing the tension profiles, and then categorizing them more consistently based on the ad delivery to them. So they were kind of the narrative tension, and then basically looking at the ad placement specifically, what could be the.
+
+[TPAC Room 7] 10:02:27
+feeling of the kind of person that is looking at it. And it was scattered when it comes to humans, but LLMs try to interpret that much better. Uh, so…
+
+[TPAC Room 7] 10:02:41
+If I wanna just, for the sake of discussion and for the sake of tangible deliveries, I think we can categorize.
+
+[TPAC Room 7] 10:02:50
+what at least the findings on the workshop can can help this working group is, I think, categorizing these 4 so maybe look more into the Asian media and impressions. Look into how.
+
+[TPAC Room 7] 10:03:05
+Basically, you can send fraud signals in the Level 2, of course, discussions. I know you are already considering fraud in Level 2, but just, you know, I just wanted to just propose, I think that's the right way to go.
+
+[TPAC Room 7] 10:03:21
+Uh, and then consider short-term, uh, and over-delivery of, of the, uh, over-delivery of, of the results, especially in terms of the short-term sort of campaigns, uh, or small budget campaigns, and then…
+
+[TPAC Room 7] 10:03:36
+I would just…
+
+[TPAC Room 7] 10:03:38
+That's… the fourth idea is something that I'm just brainstorming, I'm not very confident on that, but I think the permission model, because the level 1, I think there were a couple of discussions on how the permission from the user point of view should be handled on that.
+
+[TPAC Room 7] 10:03:56
+So, I think that should be one of the other discussions that, okay, so how about that permission if it gets to the Agentic sort of browsing, or Agentic activity? Uh…
+
+[TPAC Room 7] 10:04:10
+that could be a little bit futuristic discussion, but it might be good to just discuss it. But anyway, that's… I tried to just be quiet. I think I used over my time, sorry about that. Uh, but yeah, if you want the full report, the link is here, and me and Moz were the chairs of the workshop, so I don't know.
+
+[TPAC Room 7] 10:04:29
+Uh, for later on, we can… we can discuss further on that, uh, but we are still discussing what should we do for the future of this. Should we go for a second round, or we just collected enough information? We don't know yet!
+
+[TPAC Room 7] 10:04:43
+Yeah, this one was a special sort of situation, so we just suffered a lot for the charity.
+
+[TPAC Room 7] 10:04:53
+Any questions?
+
+[TPAC Room 7] 10:04:56
+In the group?
+
+[TPAC Room 7] 10:04:56
+is too much. Yeah. I agree with that. So I don't. I don't. Yeah. I had a question just on the high tension moment. That was not clear to me what that is. And and like, is it about? Hey? I should not be showing an ad, because this is a high tension moment, or.
+
+[TPAC Room 7] 10:05:14
+Because you're trying to identify something, and you say it was inconsistent for humans to identify a high-tension moment, but LLMs consistently identified. Whether they were right or not, I don't know, but they were consistent. Yeah, yeah, I think you got it right. So it's like that…
+
+[TPAC Room 7] 10:05:29
+It's basically like… you know, what I'm trying to say is that it wasn't my paper, so I will just say my interpretation of that paper. It was the tension about the context or the ad? It was the tension about the placement of the ad.
+
+[TPAC Room 7] 10:05:44
+So, it's like, if the ad was just placed, what would be the result of that placement from the user's point of view? So, how they interpret that as… is it intrusive, is it kind of like… how do they find it?
+
+[TPAC Room 7] 10:05:59
+I can put you in contact with the authors to read more into there, or you can send the paper. So it's really about the ad, but is it that it's like, hey, I'm reading about A, and I'm getting an ad for B, and they're really so far apart.
+
+[TPAC Room 7] 10:06:15
+I'm getting jarred by that, so that I… I still don't understand that. Yeah. I think it's the criteria that you… it's pretty… it's media, I guess? It's, like, the position, the stuff like that, and… I think…
+
+[TPAC Room 7] 10:06:29
+Mark. I think this is the this was specifically from the calculating narrative tension forever placements. Yeah, yes. So that's it. Then that's the one where they scanned. Yeah, that's true. So I think that it's it. Maybe it is that the.
+
+[TPAC Room 7] 10:06:46
+text that the ads are on. It says the classifier labels paragraphs for narrative tension, and so then it's about a question of, like, does an ad disrupt.
+
+[TPAC Room 7] 10:06:56
+Or add to the narrative tension.
+
+[TPAC Room 7] 10:06:58
+of the club? Mm-hmm. It was, it was mainly, I think, I think, focused on the efficiency of the campaign rather than, so it's kind of like.
+
+[TPAC Room 7] 10:07:06
+if that ad-specific ad with that specific narrative is shown to the… to the end user, what would be the result? Would it result into conversion, a better conversion? Or… so, I think that was the overall message of that, but they were trying to look at the tension from the… from the semantic point of view, and then…
+
+[TPAC Room 7] 10:07:24
+Uh, yeah. When they're talking about suspense, and curiosity, and surprise, and, like, whether the ad evokes those emotions in people.
+
+[TPAC Room 7] 10:07:32
+I'm sorry.
+
+[TPAC Room 7] 10:07:33
+But then, it sounds like it's a little bit about both, then. Both the context in which it was placed… That's right, yeah. That's my reading right now, yeah.
+
+[TPAC Room 7] 10:07:43
+Narrative tension. Yeah, for me, it was a very interesting result as well. I mean, I guess it sort of implies that, like, there's an average understanding of narrative tension, but individuals are very different.
+
+[TPAC Room 7] 10:08:00
+Yeah, you know, that's right. Yeah, and also… That's exactly the message. I kind of doubt that we can conclude that DLMs were better, right? Because… No, they were not better. They were better. Because I still believe both the ads and the text was meant for humans, right?
+
+[TPAC Room 7] 10:08:21
+Right, so their interpretation goes. Yeah, for sure. We might end up with the text and ads actually targeted at the LLM, so then they get first say on what… Yeah, I think that is the relation that I find…
+
+[TPAC Room 7] 10:08:37
+interesting for the working group, because in the beginning I don't know if you were in the beginning, I think, because we ran the it was 2 sessions. Basically, one was very academic. The other one was very brainstorming for the brainstorming sessions. There were a lot of discussions. So what happened about.
+
+[TPAC Room 7] 10:08:54
+agents getting involved in the advertising, and how the interaction, what is the conversion, how you can measure user actions. So, because they were a little bit futuristic, there was no tangible.
+
+[TPAC Room 7] 10:09:05
+result of that, basically. But that tension relates to that, basically, more than what's going on now.
+
+[Martin Thomson] 10:09:12
+And now it's kind of like, okay, so imagine.
+
+[TPAC Room 7] 10:09:15
+Oh, maybe there's someone online. Oh, no, no. Was there anything said about whether the text had been generated by LLMs? Because that kind of feedback loop would not surprise me, that it's very consistent, that if someone has asked an LLM to produce text.
+
+[TPAC Room 7] 10:09:33
+text that has a certain narrative. And then Llms are asked to evaluate that. And they're consistently saying, Yeah, yeah, it has. That's right. Now, I think the data set that they use was benchmark data set, which I think they use that.
+
+[TPAC Room 7] 10:09:58
+Interesting. Yeah. I'm sort of amazed that there was anything brand safe on Lockpad.
+
+[TPAC Room 7] 10:10:05
+That was one, but I think… I think the other tension, uh, related was basically trying to just have some controlled surveying and interviewing the producers as well. So, yeah, that was…
+
+[TPAC Room 7] 10:10:19
+These two somehow complement each other.
+
+[TPAC Room 7] 10:10:22
+Um, okay. Yeah, but if there is any of them, as I said, are more interesting to dig into, I'm more than happy to put you in contact with the authors or the people, and then…
+
+[TPAC Room 7] 10:10:33
+they can just continue the discussion. But I just wanted… I thought the results of… it might be interesting for the… for the folks, so… Yeah.
+
+[TPAC Room 7] 10:10:42
+And if you, uh, if it's alright to share the slides, if you could share them with me, just kind of go on. Yes, I'll do it. I'll do that. Let me stop sharing, so…
+
+[TPAC Room 7] 10:10:52
+We can see each other. But, uh, yeah, I'll just…
+
+[TPAC Room 7] 10:10:57
+Triple line… do you want me to put it straight in the, uh…
+
+[TPAC Room 7] 10:11:02
+basically in the meeting notes, or… Yeah, if you want to put it into the meeting notes, that would certainly be helpful.
+
+[TPAC Room 7] 10:11:08
+Okay, so next up is, thank you for presenting. Next up is our charter renewal conversation.
+
+[TPAC Room 7] 10:11:24
+So, let's see if I can, uh…
+
+[TPAC Room 7] 10:11:27
+Selects the right window here.
+
+[TPAC Room 7] 10:11:35
+Then it's been all nice. So I didn't go to stories.
+
+[TPAC Room 7] 10:11:46
+say, Mr. Graham of the, uh…
+
+[TPAC Room 7] 10:11:49
+percentage agreement around narrative tension across the different, uh.
+
+[TPAC Room 7] 10:11:55
+texts from.
+
+[TPAC Room 7] 10:11:57
+CAIC? Yeah. That's awesome.
+
+[TPAC Room 7] 10:12:00
+Co-managers to give 100%. I'm one of the…
+
+[TPAC Room 7] 10:12:08
+Alright, so, uh, charter renewal is the issue. Um, our charter expires on 26th of November, 2026. Our, uh, proposed change is a simply updating the date and nothing else.
+
+[TPAC Room 7] 10:12:23
+Um, Sean, I think we were going to push it out another year? What was the…
+
+[Sean Turner] 10:12:26
+Yeah. I think a year was just kind of our guesstimate.
+
+[TPAC Room 7] 10:12:30
+I think if we're looking for two years, people would expect us to look at deliverables and those sorts of other things, but we're pretty close on the set of deliverables that are in there, so thank you. So everyone's good, we're doing more work, so no one's in the shadow of the group, cool.
+
+[TPAC Room 7] 10:12:46
+You want it extended a year. No change in deliverables.
+
+[TPAC Room 7] 10:12:51
+Yeah.
+
+[TPAC Room 7] 10:12:53
+Just basically having that noted, and then when it comes to the transition request, then you talk to the group. It's worth doing a little bit of a read-through individually, and make sure you're confident that, uh…
+
+[TPAC Room 7] 10:13:04
+That makes sense. Yeah.
+
+[TPAC Room 7] 10:13:08
+I was always a little… We're only two years, we've been working two years, that's not how this works.
+
+[TPAC Room 7] 10:13:15
+I'm surprised we're this far through, to be honest. Yeah, and it's hard to guess what you get. You do it the best you can. Yeah.
+
+[TPAC Room 7] 10:13:22
+Alright, so, I think we're all agreed, moving forward, Bill.
+
+[Sean Turner] 10:13:24
+Yeah, I mean, the hope here, excuse me, I think is this kind of is a formality. At the end of the day, we're about to publish or we're getting close, right? So I think if we put a year in, we ought to be pretty good to get at least the first version out.
+
+[TPAC Room 7] 10:13:44
+Okay.
+
+[TPAC Room 7] 10:13:46
+Resolved.
+
+[TPAC Room 7] 10:13:49
+Yeah, so just like a bit of a review process, and so you can worry about the date. You generally don't… you don't want to make it to be too badly, but just for process purposes, it's okay to be temporarily out of charter. It's not like everything has to fold and re-go. What happens is you cannot, sort of, publish in the… if you're in the gap.
+
+[TPAC Room 7] 10:14:04
+that's what you get stopped for until… and if you get stopped, you can also sort of get sort of emergency extension, like, there's a way to kind of get… buy you a little bit of time. It seems not necessary in this case. Yeah, the review should not take that long. The review… it should not take that long, but there is a sort of… everyone has to go through it, a bit like if you're doing a new one.
+
+[TPAC Room 7] 10:14:21
+But when it's your only changing dates, everyone's going to go, this is the same. Does it go back out to the… It does. It does. It does. Which means another opportunity for forms and all of that. That's right. We are fully exposed. That's right. That is the risk, but if we just change the date.
+
+[TPAC Room 7] 10:14:40
+the risk profile looks a little better. But you are correct that yes, the door is real, because it goes through that process. That's what I assumed, I just wasn't 100% sure. You are correct to ask.
+
+[Sean Turner] 10:14:56
+So, are we at the point now where we've handed this over to Terra, basically, to proceed forward, or do we have some pause where we need to make sure that we all agree that it's just changing the date?
+
+[TPAC Room 7] 10:15:07
+That's pretty much what you're doing here. This was the opportunity for any… if someone's gonna do a major change, now would be the great time to do it, since you're not. Then that goes into whatever, and then it goes into the transition request, and they say, here's what they said, it was cool, here's what the changes are, and the reviewers will know it's basically the same, and everything just rolls ahead from there.
+
+[Sean Turner] 10:15:10
+Good.
+
+[Sean Turner] 10:15:14
+Awesome.
+
+[Sean Turner] 10:15:23
+Awesome. Ball… ball handed over.
+
+[TPAC Room 7] 10:15:24
+Cool.
+
+[TPAC Room 7] 10:15:26
+The issue's already open, like, the first part of it's already open, and then it can be picked up and moved, so I started the… How soon can you start that process?
+
+[TPAC Room 7] 10:15:33
+You can start the process, basically, as soon as you get around to doing it. Yes.
+
+[TPAC Room 7] 10:15:36
+Indeed. And then, of course, because, um, yeah, a couple of buttons and during TPAC, you know, everybody is not home, but, you know, next week is gonna take some time. Yeah, just a little bit, the strategy, oh, there it is, click, right, on Friday or whatever. So, totally, yeah. You do not need to do anything other than, as I say, if it gets.
+
+[TPAC Room 7] 10:15:52
+the refinement kicks off, because a notice goes out, is the point where you were saying the door opens. Everyone's aware that it's happening, and so, yes, that would be where any people are suddenly going to appear. That will… that's the next thing that would be… you'd have to pay attention, is kind of what you see.
+
+[TPAC Room 7] 10:16:09
+So, you don't have to do any more work on it, apart from, like, you know, check the date, you know, I'll send it to yours, or whatever, about what we put in the States. But they can actually look at it, sort of, ahead of that. It doesn't have to be, like, 100% coaching. I mean, there's no changes to the chart, so hopefully they're familiar with it at this.
+
+[TPAC Room 7] 10:16:25
+Yes, yeah, exactly. You can. You pretty much say that. But you know where the changes and say, there's it's date changes. Okay, great.
+
+[TPAC Room 7] 10:16:34
+All right, let's move on to the next item.
+
+[TPAC Room 7] 10:16:38
+So, next item is, uh, web extension support. Uh, we had some feedback around this, we took it to the web extensions group.
+
+[TPAC Room 7] 10:16:47
+They reviewed it, they also reviewed it, uh, in their working group, and the working group resolved… the web extensions working group resolved that the browser… browser.privacy.admeasurement enabled.
+
+[TPAC Room 7] 10:17:03
+API is where web extensions should control it. Um, we'll, I think, have to include that in the specification, right?
+
+[TPAC Room 7] 10:17:13
+I don't know who owns…
+
+[TPAC Room 7] 10:17:17
+the API. That, I think, was… should have been the question. Uh, they… they reviewed it and said that it was for Chrome's.
+
+[TPAC Room 7] 10:17:26
+uh, private measurement API when that was around. Um…
+
+[TPAC Room 7] 10:17:32
+Okay. They've… Chrome has disabled it, but the…
+
+[TPAC Room 7] 10:17:38
+Yeah, we can add that to the spec. So we're okay to add this to the spec? I mean, yeah, I mean, just mark it as ready for editors.
+
+[TPAC Room 7] 10:17:47
+Let's do that.
+
+[TPAC Room 7] 10:17:50
+Pretty straightforward.
+
+[TPAC Room 7] 10:17:52
+It's Boolean. Yep.
+
+[TPAC Room 7] 10:17:56
+I just get cold.
+
+[TPAC Room 7] 10:17:59
+Hmm. Just.
+
+[TPAC Room 7] 10:18:01
+So, we're saying web extensions can turn it off, even if it's on through settings? Yeah, they might be able to turn it on as well.
+
+[TPAC Room 7] 10:18:10
+Right, but that's where I was going. What happens if extensions have conflicting, and so one extension is turning it on? Have we ever done this before, that extensions fiddle with your settings? Yeah, yeah, yeah.
+
+[TPAC Room 7] 10:18:25
+Well, we dealt with this with GPC, and it was basically just whatever extension… Yeah, you have to… if a user's installed a browser extension, to some extent, you have to trust them to…
+
+[TPAC Room 7] 10:18:40
+use the extension.
+
+[TPAC Room 7] 10:18:41
+the way they intended to. Yeah.
+
+[TPAC Room 7] 10:18:45
+It's, it's kind of messy.
+
+[TPAC Room 7] 10:18:47
+Yeah, I know.
+
+[TPAC Room 7] 10:18:50
+Seems like this would be a separate part of web extensions. It's a very different thing.
+
+[TPAC Room 7] 10:18:56
+fiddling with global settings of your browser, rather than fiddling with current web content. So, from my perspective, I'm kind of comfortable with the idea of the extensions being able to toggle and read and what have you.
+
+[TPAC Room 7] 10:19:09
+Um, but I'm…
+
+[TPAC Room 7] 10:19:11
+thinking that I might need to talk to our UX folks around the web extensions UX, so that we can expose when the… that this extension has made the following changes. Yeah, yeah. Is there an opportunity to make this optional, or will someone bulk them?
+
+[TPAC Room 7] 10:19:30
+Uh, it's maybe… it may be possible to do something on the browsers.
+
+[TPAC Room 7] 10:19:34
+You can turn it off, and we'll respect that, but you can't turn it back on again if it's turned off. That sort of… that sort of thing.
+
+[TPAC Room 7] 10:19:44
+You can R3-ANN CBPO Oyster 107: have policies in the browser that basically say there's a user setting.
+
+[TPAC Room 7] 10:19:49
+And there's an extension setting, and we're going to look at both of those and make some sort of decision.
+
+[TPAC Room 7] 10:19:54
+about how to combine these into the final behavior of the browser.
+
+[TPAC Room 7] 10:19:58
+Okay.
+
+[TPAC Room 7] 10:20:00
+I think, like, this is something that all browsers are gonna have to figure out with the California rule anyway. That's right. Yeah.
+
+[TPAC Room 7] 10:20:06
+Since that's, uh, their GPC is now required for California browsers. Yeah.
+
+[TPAC Room 7] 10:20:16
+It's not an EU omnibus.
+
+[TPAC Room 7] 10:20:20
+Oh, under the umbrella.
+
+[TPAC Room 7] 10:20:22
+Yeah, sure, let me add that to the agenda.
+
+[TPAC Room 7] 10:20:26
+Okay, I've marked it as editor ready.
+
+[TPAC Room 7] 10:20:29
+I'm gonna remove the discussion. I think I might put in the spec that it is a setting that's potentially in addition to the one that the browser presents to the user.
+
+[TPAC Room 7] 10:20:40
+the browser's implementations have to make a choice on which one to respect, on how to respect the combination of those things.
+
+[TPAC Room 7] 10:20:48
+And that's good.
+
+[TPAC Room 7] 10:21:02
+Alright.
+
+[TPAC Room 7] 10:21:03
+Security review.
+
+[TPAC Room 7] 10:21:07
+let's see…
+
+[TPAC Room 7] 10:21:12
+There are two pieces here for the security review.
+
+[TPAC Room 7] 10:21:18
+So the first is the security horizontal review feedback here.
+
+[TPAC Room 7] 10:21:23
+And I believe Martin has a PR to address this. So, basically, the information… some of the critical information the security group was… were looking for.
+
+[TPAC Room 7] 10:21:36
+was all there, but it was kind of scattered. And so they just asked for more or less a summary of some of the considerations. They missed… they missed one thing, I think, in this, but it was pretty good feedback. And so this just goes through…
+
+[TPAC Room 7] 10:21:52
+Just summarizes some of the considerations that you need to think about.
+
+[TPAC Room 7] 10:21:59
+Things about who adds the noise, what's the implications of that, what the confidentiality expectations are around this, what the correctness expectations are.
+
+[TPAC Room 7] 10:22:11
+Um, that's… that's what's under your basic.
+
+[TPAC Room 7] 10:22:30
+Okay. Uh, so, I need…
+
+[TPAC Room 7] 10:22:34
+Well, I would like to have some review of that text, but that's…
+
+[TPAC Room 7] 10:22:40
+All right, so review.
+
+[TPAC Room 7] 10:22:43
+needed, but I think we're generally in agreement to add what comes out of our review.
+
+[TPAC Room 7] 10:22:52
+The core text of what we're trying to talk about here is good.
+
+[TPAC Room 7] 10:22:57
+Yeah, so hopefully I haven't added anything that's inconsistent with the rest of the document.
+
+[TPAC Room 7] 10:23:05
+What section is that in?
+
+[TPAC Room 7] 10:23:07
+Would you like me to, sort of, um…
+
+[TPAC Room 7] 10:23:11
+We'll follow up with the security responder to see if it satisfies their concern.
+
+[TPAC Room 7] 10:23:18
+Uh, maybe that's a correct DSMI, it's not with us picking it up, but…
+
+[TPAC Room 7] 10:23:22
+just…
+
+[TPAC Room 7] 10:23:24
+this black and white issue, I guess. Yeah.
+
+[TPAC Room 7] 10:23:32
+Yes, someone's going to return tomorrow, so it should be around.
+
+[TPAC Room 7] 10:23:38
+No doubt there's…
+
+[TPAC Room 7] 10:23:40
+Some other work going on?
+
+[TPAC Room 7] 10:23:43
+It's, like, 13 tracks or something like that on this…
+
+[TPAC Room 7] 10:23:48
+Probably in some other, like, maybe the screen interest group, you know, maybe that needs to be sharing.
+
+[TPAC Room 7] 10:24:04
+suggestions. I suppose you're suggesting some weird phrasing, but… Yeah, yeah, I think… Yes, it's not really a concern. It was an editorial.
+
+[TPAC Room 7] 10:24:13
+Suggestion, anyway.
+
+[TPAC Room 7] 10:24:16
+Change anything, just looking to…
+
+[TPAC Room 7] 10:24:19
+Draw all of these things together.
+
+[TPAC Room 7] 10:24:37
+Very funny to me, which I mean irritating.
+
+[TPAC Room 7] 10:24:44
+We had some network outages yesterday.
+
+[TPAC Room 7] 10:24:52
+This area seems to be .
+
+[TPAC Room 7] 10:24:55
+Yeah, I remember that GitHub keeps going down. Yeah.
+
+[TPAC Room 7] 10:25:01
+Uh, okay.
+
+[TPAC Room 7] 10:25:04
+This is not a lot.
+
+[TPAC Room 7] 10:25:06
+Yeah, so this is more based on…
+
+[TPAC Room 7] 10:25:10
+Oh, here's comments.
+
+[TPAC Room 7] 10:25:14
+I believe this is a response to… the tags. Yeah, that's right, so the tags reviewed…
+
+[TPAC Room 7] 10:25:23
+Identified that we weren't really…
+
+[TPAC Room 7] 10:25:26
+As much up front about what the…
+
+[TPAC Room 7] 10:25:29
+What value differential privacy is providing.
+
+[TPAC Room 7] 10:25:33
+So, I thought it might be worthwhile.
+
+[TPAC Room 7] 10:25:36
+Just put a little bit more emphasis on here. A lot of the design is structured in a way to make differential privacy work better.
+
+[TPAC Room 7] 10:25:46
+And, um, differential privacy is kind of the… the core protection that we're using here.
+
+[TPAC Room 7] 10:25:57
+Uh, would you like additional review on this? Always.
+
+[TPAC Room 7] 10:26:03
+Yeah, that's right. I was reading clear yesterday.
+
+[TPAC Room 7] 10:26:06
+I mean, it's supposed to be as inoffensive as possible. Yeah, I think generally this is clear to me, uh…
+
+[TPAC Room 7] 10:26:15
+for an editor review as well, but uh… and Gerald, there's no objection. Oh.
+
+[TPAC Room 7] 10:26:21
+You said, looks good. I mean, do you want to just merge it?
+
+[TPAC Room 7] 10:26:26
+From my perspective, if Ben thinks it's okay, then we're good. Let's do it, then. This is at the level of just a sanity check, and we're good.
+
+[TPAC Room 7] 10:26:35
+For editorial changes, I think we need more at this point if we're making anything, um, technical. Yeah.
+
+[Sean Turner] 10:26:43
+Yeah, I mean, this is just a… this is a summary, right?
+
+[TPAC Room 7] 10:26:47
+Yeah, both of these…
+
+[Sean Turner] 10:26:47
+Oh, the features that…
+
+[TPAC Room 7] 10:26:49
+what is existed elsewhere.
+
+[Sean Turner] 10:26:54
+Yeah, cool.
+
+[TPAC Room 7] 10:26:58
+Moving on.
+
+[TPAC Room 7] 10:27:00
+Ah, yeah, this is a good one.
+
+[TPAC Room 7] 10:27:05
+Can I read the title? Yes. Sorry. It's abuse attempts. To be detected or made visible. So, um, Nick picked up on a bit of text that was there from the very, very beginning. In fact, from… I couldn't trace it back through the Google Docs that preceded the…
+
+[TPAC Room 7] 10:27:22
+the thing, and it was wrong, but highlights an existing point here that, as a general rule, if we're building one of these things, we need to think very carefully about how the API might be abused as well as used, and.
+
+[TPAC Room 7] 10:27:37
+what sort of mitigations we have in structurally to protect against that. I think we have some.
+
+[TPAC Room 7] 10:27:43
+reasonable protections in place, and we've documented some of those, but we weren't being particularly direct about it. And so that statement needed to be removed and replaced with something a little bit different.
+
+[TPAC Room 7] 10:27:53
+more accurate, and, um, more indirect response to the… these sorts of concerns. So, hopefully, the full request that I have here is…
+
+[TPAC Room 7] 10:28:07
+And be made visible sounds like user visible.
+
+[TPAC Room 7] 10:28:11
+Right. And so, uh, I don't think that Nick's…
+
+[TPAC Room 7] 10:28:16
+concern here is specifically about making abuse user visible, not making it.
+
+[TPAC Room 7] 10:28:23
+Um, so…
+
+[TPAC Room 7] 10:28:25
+making the abuser accountable to someone in some fashion. Somehow detectable if you have enough commonalities in the system. Right.
+
+[TPAC Room 7] 10:28:34
+Yeah, because that is very, very different, right? I think we're not imagining users being involved in this at all, right? Not thinking about it, or fiddling with it. So…
+
+[TPAC Room 7] 10:28:45
+I think we made something user-visible. Well, the setting and feature that was turned on two years ago, someone's abusing it!
+
+[TPAC Room 7] 10:28:52
+And there's no action for you to take, uh, life is bad, right? Yeah, no. You're not gonna be doing it. No.
+
+[TPAC Room 7] 10:28:59
+And so, I think this… in this case, um, we're… we're building…
+
+[TPAC Room 7] 10:29:05
+to Differential Privacy, and Differential Privacy Guarantees gives us a worst case.
+
+[TPAC Room 7] 10:29:10
+So the guarantees are if someone acts maliciously to the utmost extent, and I'll talk about this a little bit more this afternoon.
+
+[TPAC Room 7] 10:29:22
+Does that do that?
+
+[TPAC Room 7] 10:29:24
+then they gain no more than this. That's the guarantee. That's what differential privacy gives us, and this is really saying…
+
+[TPAC Room 7] 10:29:32
+Uh, changing the emphasis of this to that.
+
+[TPAC Room 7] 10:29:35
+The most significant risk comes from an adversary that possesses high fidelity tracking information on a user across many sites. In that case, misuse of the API.
+
+[TPAC Room 7] 10:29:45
+This leads to information release that's bounded only by the global privacy.
+
+[TPAC Room 7] 10:29:50
+This is the absolute worst case scenario.
+
+[TPAC Room 7] 10:29:53
+And that references the existing.
+
+[TPAC Room 7] 10:29:56
+Checks that we have in the analysis that's been done in that regard.
+
+[TPAC Room 7] 10:30:02
+Um, does the taxi…
+
+[TPAC Room 7] 10:30:03
+Luckily, it's quite difficult in practice, um…
+
+[TPAC Room 7] 10:30:07
+But the differential privacy doesn't care.
+
+[TPAC Room 7] 10:30:11
+The commercial privacy assumes that they're going to be able to do it, and provides protection anyway.
+
+[TPAC Room 7] 10:30:17
+And sort of mentioned some of the challenges that such an attacker would have to overcome in order to get to that point. Combining information from multiple sites, correlating them.
+
+[TPAC Room 7] 10:30:28
+With higher efficacy and, you know, all the coordination problems that come from that.
+
+[TPAC Room 7] 10:30:34
+As well as the fact that they can't use the API for anything else.
+
+[TPAC Room 7] 10:30:39
+Yeah. R3-ANN CBPO Oyster 107: I stayed up too late. Yeah. R3-ANN CBPO Oyster 107: I agree with how you frame the use for privacy here. I think this section is good. One thing I wasn't sure like in Nick's issue. If he's also talking about like.
+
+[TPAC Room 7] 10:30:56
+other kinds of abuse, rather than just, like, privacy abuse, because he mentioned something about, like, malicious misattribution, like, it sounds like a fraud kind of style abuse, right? He also talked quite a bit about, like, denial of service type of abuse. Yeah, right. So, like.
+
+[TPAC Room 7] 10:31:12
+I think there's, there's one kind of sentence in here that maybe your CR removes, but maybe we should just move it somewhere else. Uh, because it's talking about how we do make it transparent.
+
+[TPAC Room 7] 10:31:26
+Like, which conversions…
+
+[TPAC Room 7] 10:31:29
+Which conversion sites are allowed to access a certain impression?
+
+[TPAC Room 7] 10:31:34
+Um, so, like, by having that kind of, like, logged, like, that's, I think, one of our.
+
+[TPAC Room 7] 10:31:39
+that's one primary lever we do have in the spec that kind of prevents, kind of like, a fraudulent abuse of the API, like, all the stuff in the storage, but access control, right? So we have that there, and it's also transparent.
+
+[TPAC Room 7] 10:31:51
+Um, so that helps, I think, with, like, making, like, attempts to, you know, run these, like, denial of service attacks, like, more visible, so we're just trying to, like.
+
+[TPAC Room 7] 10:32:02
+consume a lot of budget or something. I think we have that fixed elsewhere. We might, yeah. Yeah, um…
+
+[TPAC Room 7] 10:32:10
+So, maybe it's worth, uh…
+
+[TPAC Room 7] 10:32:15
+Just
+
+[TPAC Room 7] 10:32:16
+Let me put them out in the in the issue and sign. Yeah.
+
+[TPAC Room 7] 10:32:21
+There's many, many dimensions to the obvious thing. One is the the concern that we've raised about misattribution or sites that are able to to drop impressions in to steal conversions.
+
+[TPAC Room 7] 10:32:36
+I mean, we've addressed those numerous times, so I'm not sure we need anything on that front. And yes, the the.
+
+[TPAC Room 7] 10:32:47
+the entire section on the sort of safety elements that we have. We have, yeah, we have big sections on that. Yeah, we have.
+
+[TPAC Room 7] 10:32:56
+I'm not concerned about that one, and I don't think we need to address misuse as a concept in a single place.
+
+[TPAC Room 7] 10:33:08
+So then, I don't think that's blocking for this. I'm just going to drop a note to say that we believe that those other aspects of misuse are addressed already. Okay.
+
+[TPAC Room 7] 10:33:26
+Any objections to merging it in?
+
+[TPAC Room 7] 10:33:46
+Merged.
+
+[TPAC Room 7] 10:34:40
+Let's move on.
+
+[TPAC Room 7] 10:34:51
+I wanted to cover the tag review.
+
+[TPAC Room 7] 10:34:53
+Uh, we obviously already put in a PR in response to this. Uh…
+
+[TPAC Room 7] 10:35:00
+Martin responded to the TAG review.
+
+[TPAC Room 7] 10:35:05
+I think, obviously, they'll re-review it after the changes, all that, but…
+
+[TPAC Room 7] 10:35:10
+Um, is there anything else we need to address on this… on the TAG review response?
+
+[TPAC Room 7] 10:35:15
+Do you feel good about where we stand with TAG right now?
+
+[TPAC Room 7] 10:35:20
+We'll figure out when they come back to us, won't we? Yes.
+
+[TPAC Room 7] 10:35:24
+Um, I think, like, in terms of what we've done in the PR, do you want me to make a comment here saying that, like, the spec is ready for re-review? See if it addresses their concerns?
+
+[TPAC Room 7] 10:35:33
+Uh, yeah. We do need to get that other pull request in.
+
+[TPAC Room 7] 10:35:39
+Sorry, say that again? But we just merged it, right? No, the larger one. Oh, the bigger one. Okay, so after that? Um, yeah, we're almost there. Okay.
+
+[TPAC Room 7] 10:35:51
+I can, I can find that one this time.
+
+[TPAC Room 7] 10:35:55
+Once the pull requests drop to zero, close enough.
+
+[TPAC Room 7] 10:36:01
+I mean, obviously…
+
+[TPAC Room 7] 10:36:03
+They can see the… respond, but, um, it may be that we need to…
+
+[TPAC Room 7] 10:36:10
+Yeah, once we merge the PR, I can post on it.
+
+[TPAC Room 7] 10:36:15
+Or if there's… they want to have more before the security…
+
+[TPAC Room 7] 10:36:22
+Sorry, say again? I was asking Martin which PR do you think is likely to have?
+
+[TPAC Room 7] 10:36:28
+March 1st.
+
+[TPAC Room 7] 10:36:30
+Uh, the longer one that the security folks…
+
+[TPAC Room 7] 10:36:34
+I think that might also go some way to helping the tag.
+
+[TPAC Room 7] 10:36:41
+Alright.
+
+[TPAC Room 7] 10:36:44
+Um, so, next up, we've got a couple of conversations on further explainers.
+
+[TPAC Room 7] 10:36:51
+Um, I think generally our position has been that…
+
+[TPAC Room 7] 10:36:57
+The explainer is within the context of the proposal.
+
+[TPAC Room 7] 10:37:03
+I've added, like, a note here. We had this conversation last time.
+
+[TPAC Room 7] 10:37:11
+This was also what meant… the idea that there was more explainer needed was mentioned by the TAC as well.
+
+[TPAC Room 7] 10:37:21
+Yeah, so there's some ephemeral stuff that the tag highlighted here that… that is kind of interesting.
+
+[TPAC Room 7] 10:37:27
+In terms of contextualizing the work, but it's not something that you maintain all the time.
+
+[TPAC Room 7] 10:37:34
+Alternative approaches and, uh, some of those other things.
+
+[TPAC Room 7] 10:37:38
+And I would rather have that as a sort of…
+
+[TPAC Room 7] 10:37:44
+So…
+
+[TPAC Room 7] 10:37:46
+transit throwaway, I don't know. Something like that. Do you want, like, should we open a…
+
+[TPAC Room 7] 10:37:53
+like, WG note, or something like that. Jeez, I don't know. This is the…
+
+[TPAC Room 7] 10:37:59
+This is the thing, right, because…
+
+[TPAC Room 7] 10:38:03
+It just might work.
+
+[TPAC Room 7] 10:38:07
+Yeah. Is this normal?
+
+[TPAC Room 7] 10:38:10
+Oh, yeah, yeah, so tech really do love their explainers, yeah. Yeah, there was a conversation, actually, up here this week about…
+
+[TPAC Room 7] 10:38:19
+the tag's preference for sensitive explainers. Gotcha. I mean, it makes sense. Yeah.
+
+[TPAC Room 7] 10:38:26
+I don't like extensive expense.
+
+[TPAC Room 7] 10:38:29
+Not longest, but thoughtful context. Yeah, yeah, yeah.
+
+[Sean Turner] 10:38:33
+I mean, I feel like this is… this is a… this is a place where we could play Bring Me a Rock till the end of time, right? So at some point, we have to bound…
+
+[Sean Turner] 10:38:42
+what it means, and how deep, and, you know, how many audiences, etc. So, um…
+
+[Sean Turner] 10:38:48
+I think we should take a minimal approach here, personally.
+
+[TPAC Room 7] 10:38:52
+Alright, so can I… can I add something to that? I think from… from… I don't know, I'm not… I'm not talking about that, but… but I think that explainer… an efficient explainer sets the scene for the rich review of attributes. I think…
+
+[TPAC Room 7] 10:39:07
+Yeah, that makes sense to have at least a reasonable explainer for every spec.
+
+[TPAC Room 7] 10:39:12
+Yeah, I think…
+
+[TPAC Room 7] 10:39:14
+I think, sort of, our position has been thus far that the spec, sort of, contains its own explainer. Fair point. Yeah. But that's why I emphasize on this, that's the simple part. Yeah, it's… That's the first thing…
+
+[TPAC Room 7] 10:39:28
+The top level looks fine. Yeah, that's the first thing I…
+
+[TPAC Room 7] 10:39:32
+I kind of saw that everyone for reviewing type looks like… looks like. But I also think that the viewability, readability is so much better with explainers. That's one part of why I prefer them myself.
+
+[TPAC Room 7] 10:39:47
+Because when you look at spec stuff, I don't think it exists in dark mode to start with, and I'm aware of it.
+
+[TPAC Room 7] 10:39:54
+Okay, it works in government, let's see.
+
+[TPAC Room 7] 10:39:58
+Uh, yep, I've got the button, that's fine.
+
+[TPAC Room 7] 10:39:59
+Okay, yeah, okay. Um, and then, uh, doesn't it have this watermarking stuff going on, that this is not, uh, standard?
+
+[TPAC Room 7] 10:40:11
+No, so… so, I mean, yeah, it's got a whole bunch of boilerplate in the front, but if you read the introduction, and the background, and the goals, and it's got pictures, and what have you, this is the sort of framing that I would expect an explainer to have, right? And then.
+
+[TPAC Room 7] 10:40:27
+And then it gets into, sort of, how it works, and it's got some pictures, and then, um, API usage, and it has examples of the API, and what have you. It's an explainer. So…
+
+[TPAC Room 7] 10:40:41
+You know, it just happens to have algorithms at the bottom.
+
+[TPAC Room 7] 10:40:45
+But, you know, I've done a great job following Ricky there and catch that stuff.
+
+[TPAC Room 7] 10:40:52
+They, like, look like section 1 and 2 of the spec, or, like, you maintain this lockout.
+
+[TPAC Room 7] 10:40:57
+High-level explainer, or anything like that.
+
+[TPAC Room 7] 10:41:00
+If you have specific feedback and questions on what more you want in that part of the explainer, then work on… Do we keep them consistent? Do we just say that the… these sections of the spec are the explainer, and we will keep them in sync?
+
+[TPAC Room 7] 10:41:17
+And then you don't have a problem anymore. Oh, we just extract them out and put them on the webpage somewhere.
+
+[TPAC Room 7] 10:41:23
+Okay.
+
+[TPAC Room 7] 10:41:25
+I mean, possible, but… Because then you don't have to debate it with anyone, right? Yeah. I mean, I could, like, build a GitHub automation to just…
+
+[TPAC Room 7] 10:41:33
+copy it into a note in the WG or something. We really wanted to do that.
+
+[TPAC Room 7] 10:41:40
+It seems a little silly, but… I understand what you're saying, that at least it closes the question of, do we have an explainer? Yeah, so the things that the TAG identified in their review…
+
+[TPAC Room 7] 10:41:50
+was broader design context, and I don't think we've got a great deal of that in the material. We could potentially add some of that. Alternatives considered.
+
+[TPAC Room 7] 10:42:01
+A trust model, we'd have that in the document.
+
+[TPAC Room 7] 10:42:05
+Uh, user agent responsibilities, we have that in the document. Interoperability expectations, user benefits, they're all… those ones are all in the document.
+
+[TPAC Room 7] 10:42:13
+It's really only for, sort of, broader context and this…
+
+[TPAC Room 7] 10:42:18
+is falling and the the alternatives that we're considering.
+
+[TPAC Room 7] 10:42:24
+I could provide a bit of a survey of alternatives.
+
+[TPAC Room 7] 10:42:27
+We've had a historical series of proposals, right? I mean, maybe that's what it'd be like.
+
+[TPAC Room 7] 10:42:47
+The broader design context and alternatives are considered right now in the document. Do we want, like, a…
+
+[TPAC Room 7] 10:42:54
+Again, like, it could be a working group document that's like, hey, here's markdown of what the history of this… Could it just be, like, prior art with links?
+
+[TPAC Room 7] 10:43:03
+Yeah, yeah, that's that's kind of the sort of thing I'm thinking of, even even as an appendix.
+
+[TPAC Room 7] 10:43:14
+I think we can put it in the document. And I think…
+
+[TPAC Room 7] 10:43:21
+Active.
+
+[TPAC Room 7] 10:43:23
+the other ones aren't in exactly the format that Intrepid Tag likes.
+
+[TPAC Room 7] 10:43:30
+That's good. I will note that…
+
+[TPAC Room 7] 10:43:32
+This is a constant point of tension between the TAG and some of the CSS work that goes on as well. Some folks on the CSS side are happy providing explanations when the spec is, you know, very clear.
+
+[TPAC Room 7] 10:43:44
+describes what's going on. So…
+
+[TPAC Room 7] 10:43:48
+That happens, although that community has sort of caved to pressure and has produced explainers, but they tend to be throwaway artifacts at that point.
+
+[TPAC Room 7] 10:43:58
+I favor the, write the first third of the spec as the explainer. Copy it into the explainer.
+
+[TPAC Room 7] 10:44:05
+And then tell the rest of W3C, this resolves all of your issues. Let's all do this now.
+
+[TPAC Room 7] 10:44:11
+And any feedback on the explainer also goes into the spec.
+
+[TPAC Room 7] 10:44:15
+And then we're done with it. That's kind of where we're at right now. And that would also make specs probably more approachable, because the first third will read as an explainer, and that's correct. Exactly, right? Maybe it adds a lot in there.
+
+[TPAC Room 7] 10:44:32
+We've solved W3C funding issues. Just put ads on it.
+
+[TPAC Room 7] 10:44:39
+It was so simple. We troll people by having a statically placed ad in there that people think is programmatically placed in there. I think, you know… Monster monkey. Example. I suspect that almost everybody in the W3C who would read it already wants that.
+
+[TPAC Room 7] 10:45:05
+Okay, so I think we have, um…
+
+[TPAC Room 7] 10:45:10
+prior art, we want to do that in document. Yeah. And I think…
+
+[TPAC Room 7] 10:45:15
+It's really so little work to just set up an automation to copy sections 1 and 2 into…
+
+[TPAC Room 7] 10:45:21
+explainer.markdown, I can take on that. I don't want to do that, but if you want to do that…
+
+[TPAC Room 7] 10:45:26
+I think maybe it'll help settle some of these questions, although I've assigned myself to do that. Then it just stays in sync with the document, and it's fine.
+
+[TPAC Room 7] 10:45:36
+Yeah, um…
+
+[TPAC Room 7] 10:45:48
+Alright. Use your favorite chatbot and ask.
+
+[TPAC Room 7] 10:45:51
+what the context of this thing is, so yeah, there is that. Which is what Brian did.
+
+[TPAC Room 7] 10:45:56
+And it didn't go so well. Oh, no. It was not great. It was not great. Oh, yeah, yeah. Oh, no. I mean, it was… you know, it comes close.
+
+[TPAC Room 7] 10:46:06
+deceptively close. Yeah, that often, which is the problem, right? Yeah.
+
+[TPAC Room 7] 10:46:11
+Yeah, you could actually tell how far apart it is, not so close that we'd almost be.
+
+[TPAC Room 7] 10:46:17
+lure you into a false sense of accuracy. It does. If it read all the prior art, though, that would be helpful, too. That would probably make the summary more accurate.
+
+[TPAC Room 7] 10:46:32
+Yeah, and broader context.
+
+[TPAC Room 7] 10:46:45
+Oh, I'm talking.
+
+[TPAC Room 7] 10:46:56
+I hate reading this page.
+
+[TPAC Room 7] 10:46:59
+Quote of the week right now. People say that. Keep at quotes of our Thompson. I hate reading. I hate using the Ioc. I hate using.
+
+[TPAC Room 7] 10:47:15
+Oh, my favorite is when someone doesn't know how much Martin hates IRC, and they're like, IRC dies on the queue? There you go, Ronnie. Every time.
+
+[TPAC Room 7] 10:47:43
+Anyone object to me closing this long, uh…
+
+[TPAC Room 7] 10:47:47
+yeah, issue that was open to reinforce the tag request for an explainer. Yeah, I think that's basically 90% problem, so… Okay. Uh…
+
+[TPAC Room 7] 10:48:14
+this post.
+
+[TPAC Room 7] 10:48:20
+Go to Zoom.
+
+[TPAC Room 7] 10:48:24
+There we go.
+
+[TPAC Room 7] 10:48:32
+On the glove, not housing.
+
+[TPAC Room 7] 10:48:36
+Free, by the way, occasionally.
+
+[TPAC Room 7] 10:48:40
+Transcript to get rolling. Oh, man.
+
+[TPAC Room 7] 10:48:42
+It's amazing, the transcript is packed with some amazing, inaccurate, and weird things, and also some auto-correcting, and it's…
+
+[TPAC Room 7] 10:48:50
+It's, yeah, it's a work of art in the back.
+
+[TPAC Room 7] 10:48:55
+Okay. I should watch that. Yeah, it's great.
+
+[TPAC Room 7] 10:48:58
+like, we're talking about the program ads, like, you troll people by having a statically placed ad in there, people think it's programmatically placed in there. I think you know Monster Monkey. I suspect that almost everyone in W3C who would read it already wants that.
+
+[TPAC Room 7] 10:49:15
+I do say W3C wants…
+
+[TPAC Room 7] 10:49:22
+Did I just put that on the record? Like, what are the 70s-era comic books? Where they found out that putting a monkey on the cover sold more comic books, so that there were monkeys on all the covers? Yeah, yeah, yeah.
+
+[TPAC Room 7] 10:49:35
+Why does Superman have, like, something? Why do they still have an ape? Like, Sorrel has an ape or something. So many monkeys.
+
+[TPAC Room 7] 10:49:40
+Okay, um… detectable opt-out feature, uh, this issue is open… Oh, we do need to discuss this. So…
+
+[TPAC Room 7] 10:49:51
+Uh, this was my… basically, the, uh, proposal here was…
+
+[TPAC Room 7] 10:49:57
+admit information to say that the API is off in order to…
+
+[TPAC Room 7] 10:50:04
+support feature detection of the API being off, which is pretty opposed to our inspect position, um, that…
+
+[TPAC Room 7] 10:50:14
+It should not be detectable, specifically because that creates a…
+
+[TPAC Room 7] 10:50:17
+Feature detection opportunity that leaks information about the user.
+
+[TPAC Room 7] 10:50:24
+Um… And, and can lead to nudging, right? And can lead to nudging. That is the big concern. Yes.
+
+[TPAC Room 7] 10:50:30
+Um, the idea here is that there is a privacy… I think the proposed user story is someone is running a site that says your browser is configured to be private or not, and it wants to be able to detect this setting.
+
+[TPAC Room 7] 10:50:47
+Uh, like, Martin's response was basically like, that use case is not substantive enough to deal with the other… the much larger problem of this being detectable.
+
+[TPAC Room 7] 10:51:02
+And… uh, I had my…
+
+[TPAC Room 7] 10:51:07
+Basic reinforcement of that.
+
+[TPAC Room 7] 10:51:11
+Um, my feeling is that if somebody wants to do a…
+
+[TPAC Room 7] 10:51:16
+Privacy checkup of your browser.
+
+[TPAC Room 7] 10:51:20
+maybe write an extension for that? I was gonna say, the extension, we just covered that. Yeah, now that we have that covered, yeah.
+
+[TPAC Room 7] 10:51:28
+Yep.
+
+[TPAC Room 7] 10:51:29
+So I think that random websites getting web extensions installed is a great thing. But, um, there's no good solution, yeah. But should we write that? Not a good problem. I wasn't saying it was a good solution, just saying, like, should we write a solution? Couldn't we just acknowledge that, uh.
+
+[TPAC Room 7] 10:51:48
+in general, exposing exactly how your browser is configured so that a web page can tell you whether it's configured for privacy or not is a huge privacy risk. Yeah. And we think the right side of that is to not expose all the browser settings to web pages.
+
+[TPAC Room 7] 10:52:05
+you can tell the user and show screenshots of how to go configure their browser. Yeah. The other thing is, most privacy checking sites look for the absence of such signals.
+
+[TPAC Room 7] 10:52:16
+If you look at the privacytest.org, every single one of those tests is looking for the absence of a signal. That's how you get the green checkmark.
+
+[TPAC Room 7] 10:52:26
+This is the… this is the antithesis of that. Yeah, yeah, yeah. Yeah.
+
+[TPAC Room 7] 10:52:34
+Keith's issue is also linked as very similar to this, right? Yes.
+
+[TPAC Room 7] 10:52:41
+Like, here's a developer that's, like, or somebody testing this there.
+
+[TPAC Room 7] 10:52:46
+I think this one is much more…
+
+[TPAC Room 7] 10:52:49
+496 is much more important for us to discuss, but…
+
+[TPAC Room 7] 10:52:55
+But even there, like, you're still trading, like, okay, this is, like, the…
+
+[TPAC Room 7] 10:52:59
+privacy property for all the users versus, like, some additional complexity that someone who's already going very deep into how their browser works needs to understand a little bit more about how it works. Yeah.
+
+[TPAC Room 7] 10:53:11
+I'll just make sure that we explain it. The idea that I think Charlie raised there was the concern is that…
+
+[TPAC Room 7] 10:53:20
+the Api requires that we make a fetch in certain circumstances.
+
+[TPAC Room 7] 10:53:26
+When the site requests information.
+
+[TPAC Room 7] 10:53:29
+And we make that fetch unconditionally. We always make the fetch when they make that request.
+
+[TPAC Room 7] 10:53:34
+My concern was that, you know, now the browser's making fetches when it shouldn't be making fetches because you've got the fetch template.
+
+[TPAC Room 7] 10:53:42
+And the point was, if it doesn't make a fetch, then it reveals the fact that the feature doesn't make a fetch. So you'd have to make a fetch. And there's no information being released by that fetch where people wouldn't know.
+
+[TPAC Room 7] 10:53:52
+And so Charlie's suggestion was that in your dev tools.
+
+[TPAC Room 7] 10:53:56
+When you have that line with the fetch on it.
+
+[TPAC Room 7] 10:53:59
+It's a nice little notice attached to it. It says no information. This is a done fetch.
+
+[TPAC Room 7] 10:54:07
+The website doesn't know that it is.
+
+[TPAC Room 7] 10:54:11
+So, the user knows that the fetch was a dud.
+
+[TPAC Room 7] 10:54:14
+The site doesn't.
+
+[TPAC Room 7] 10:54:16
+And are you saying that the fetch doesn't hit the network, then? It hits the network. Yeah, because otherwise you could detect the service. Exactly. Yeah, it has to make the fetch.
+
+[TPAC Room 7] 10:54:26
+Uh, but you're just gonna make it super clear that no data was actually transferred here. That's right, so if your user's digging in and says, oh, what's this fetch? I thought this fetch was disabled.
+
+[TPAC Room 7] 10:54:37
+We have an explanation.
+
+[TPAC Room 7] 10:54:41
+That seems reasonable. I thought it was a good idea.
+
+[TPAC Room 7] 10:54:45
+Has the Richard Hu opened this?
+
+[TPAC Room 7] 10:54:47
+No worries. Right, right. Okay. Part of the privacy review. Yeah, this is true, isn't it?
+
+[TPAC Room 7] 10:54:53
+Interesting question. Did he respond? Sorry, I'm going to… Pete has. I think the plan here is, this is one of the things we'll see when Privacy Cleef is with us in the next session. Okay.
+
+[TPAC Room 7] 10:55:13
+I'm wondering…
+
+[TPAC Room 7] 10:55:15
+If there's nothing noticeable by…
+
+[TPAC Room 7] 10:55:18
+the page. And that's true, right?
+
+[TPAC Room 7] 10:55:23
+You look like it's working perfectly.
+
+[TPAC Room 7] 10:55:25
+What is the concern, then? Because the page would be allowed to make its own fetch to the same server.
+
+[TPAC Room 7] 10:55:32
+So, so we're not saying, uh, with the feature of the browser might, must not make network requests to this endpoint.
+
+[TPAC Room 7] 10:55:39
+You could make that happen by installing a content blocker extension, of course, but…
+
+[TPAC Room 7] 10:55:46
+The… turning the feature off does not mean now the browser must not talk to the server.
+
+[TPAC Room 7] 10:55:51
+And pages could themselves talk to the server. Yeah, so the concern is that someone disables the API, and then they're using some tool to monitor network activity, and they see that the activity that includes the dispatch going out.
+
+[TPAC Room 7] 10:56:07
+They might be surprised and concerned because the browser's now communicating with the server that they explicitly want.
+
+[TPAC Room 7] 10:56:16
+Now, there's nothing to say that they don't block communication with those servers for other reasons, but in this case.
+
+[TPAC Room 7] 10:56:25
+Pete says, feel something between being tricked by the browser, or even that the browser is colluding with advertisers against their wishes. And I think that's just a misunderstanding of this situation. I wonder if you could do something inbound, uh, because if you're looking at this with some.
+
+[TPAC Room 7] 10:56:42
+other network monitoring tool than your Web Inspector, or whatever the developer tools are called, then you won't get the little extra.
+
+[TPAC Room 7] 10:56:50
+black there. Right, so Wireshark wouldn't be able to see it, but the problem is that Wireshark.
+
+[TPAC Room 7] 10:56:57
+For instance, or one of these other tools.
+
+[TPAC Room 7] 10:56:59
+gets the same information that the server's getting, and so… Yeah, but that's what I'm saying. Why couldn't we have a… the no-op.
+
+[TPAC Room 7] 10:57:07
+payload, say, uh, this is deliberately empty, either because there is no attribution information, or because the feature is off. And spell that out in the payload of the delivery request. We don't want that in… we don't want that in the creator in any way.
+
+[TPAC Room 7] 10:57:24
+Why not? Because then I'd be able to detect that. That's an information thing. No, it's not! Whenever we have… this is when you call measure convert on the advertiser side, say, okay.
+
+[TPAC Room 7] 10:57:36
+ask me if there was an attribution to some impression that happened on another site. Yeah, there's nothing in it that reveals information about whether there was an impression on another site. That's…
+
+[TPAC Room 7] 10:57:45
+Oh, you're saying it'll send a blob that doesn't… they can't tell whether it has information or not. I'm still saying, like…
+
+[TPAC Room 7] 10:57:54
+I think we could put something in band there that says that this may still go out even though the feature is off, because that protects your privacy, so someone who's looking at the network will realize, aha, yes. Exactly. And now someone who does not like their web tools in the browser will still understand, oh, I should not write a text table about this. If you say, can I just table this as a.
+
+[TPAC Room 7] 10:58:23
+This is such a narrow user, by the way, that, like, knows that there's a fetch, but hates steps. No, but… No, no, it's fair. It's thorough. It's thorough. You could do it in both places. I think it's probably good.
+
+[TPAC Room 7] 10:58:41
+You can't read that. Oh, yeah, what we're doing. We can point them to this part of the specimen.
+
+[TPAC Room 7] 10:58:50
+doesn't it leak information? I don't know, in terms of the timing, or any sort of pattern? Because in the case that the API is disabled, or there was no impression found, or anything like that.
+
+[TPAC Room 7] 10:59:03
+Um, it contains…
+
+[TPAC Room 7] 10:59:05
+No information other than some random numbers.
+
+[TPAC Room 7] 10:59:08
+And some stuff that can't be decrypted. Can't be decrypted. I do actually, you know what, I do actually sort of appreciate this on one hand, but also on the other hand, like…
+
+[TPAC Room 7] 10:59:20
+So, I agree. I do know people like this. In fact, I know law firms like this. Um, and… That also hate dev tools? No, that would try and capture it outside dev tools. Yeah, sure. Yeah. Um, of course, the problem is if we send it on every request, then it's sort of the same as sending it on no requests.
+
+[TPAC Room 7] 10:59:40
+Because it doesn't say that this… it usually contains no information. No, no, no. So… But, but, yeah, John's point here is that if you just put this little notice there.
+
+[TPAC Room 7] 10:59:53
+And people were like, huh?
+
+[TPAC Room 7] 10:59:55
+Yeah, the absence of information is not as helpful as the presence of it. Sure, I guess I have no objection to that. So does anyone object to me putting this on the comment thread? And then we'll check in with the privacy group about this. We're staying put in most places there, right?
+
+[TPAC Room 7] 11:00:17
+Well, actually, no, you don't need to.
+
+[TPAC Room 7] 11:00:21
+If it's a header, it's going to be in DevTools. R3-ANN CBPO Oyster 107: Oh, that's fair. Yeah, if it makes sense. Yeah. R3-ANN CBPO Oyster 107: But in DevTools, you could do something else, too, if you wanted.
+
+[TPAC Room 7] 11:00:38
+You could actually report on the… on the actual content. Right. I mean, we could… what we could do is we could have in the spec, like, a suggestion, so leave it up to the user agent to use it. And they're helpful, because you could then verify…
+
+[TPAC Room 7] 11:00:53
+The doubt that it works, right?
+
+[TPAC Room 7] 11:00:56
+I'm not saying that it should be specified to do it, it's just more like…
+
+[TPAC Room 7] 11:01:01
+putting it in DevTools actually, like, helps the person who really wants to know, like.
+
+[TPAC Room 7] 11:01:06
+Yeah, there is no payload in this one.
+
+[TPAC Room 7] 11:01:10
+Or there is no, like, this is…
+
+[TPAC Room 7] 11:01:14
+This is, like, an empty pouch.
+
+[TPAC Room 7] 11:01:19
+Yeah, uh… Consider, like, how much does this increase the overall percentage size in reports about?
+
+[TPAC Room 7] 11:01:27
+Okay, so I put that comment in here. Works for the environment. I think it is cool. It's John made it, so no. Yeah, that's right.
+
+[TPAC Room 7] 11:01:40
+Maybe it could be a code. I'll just make it a by the way, uh, new head of field, which is just a…
+
+[TPAC Room 7] 11:01:48
+And, uh, free phone stream.
+
+[TPAC Room 7] 11:01:54
+Why don't you do the drop, then?
+
+[TPAC Room 7] 11:01:58
+By the way, how do we open it? It's a great form of text. That informs vigilantes. You might receive this message or observe it. Yeah.
+
+[TPAC Room 7] 11:02:11
+Header… Header dash… A link to the explainer in the…
+
+[TPAC Room 7] 11:02:19
+All right, so, uh, and, uh, the… Hope this document finds it well. And on the Don issue, I'm going to close it with this comment saying that further resolution is going to happen in four nights. Yes.
+
+[TPAC Room 7] 11:02:32
+Right.
+
+[TPAC Room 7] 11:02:33
+Well, we…
+
+[TPAC Room 7] 11:02:35
+It is time. Uh, we've almost made it to our conversation with Penn, which will be the start of our 2PM session. Right. Um…
+
+[TPAC Room 7] 11:02:46
+So, if there's no objections, I think we'll finish now. We'll start with ping at 2PM.
+
+[TPAC Room 7] 11:02:52
+Get as far as we can, uh, with them, and then we pass that with the rest of the agenda, and then the agenda will continue…
+
+[TPAC Room 7] 11:03:03
+into the community group. Generally, the goal is to try and get to the level 2 conversation in the community group specifically, but if we have anything left over, we'll just float it.
+
+[TPAC Room 7] 11:03:17
+Perfect. Alright, uh…
+
+[TPAC Room 7] 11:03:19
+Anything that anyone wants to raise before we close?
+
+[TPAC Room 7] 11:03:23
+this session, and we will reconvene at 2PM local time.
+
+[TPAC Room 7] 11:03:30
+Going once, going twice, going thrice… Oh, we made a lot of progress. Thank you, everybody.
+
+[TPAC Room 7] 11:03:37
+We'll see how some of you take a nap, and we'll see you in a few hours.
+
+[TPAC Room 7] 11:03:43
+Almost 4 hours off right now, though. Yeah, it's not super bad, but it's pretty bad. It's bad.
+

@@ -7,7 +7,7 @@ The Private Advertising Technology Working Group will meet for 2 hours on 2026-1
 | Time          | Day    | Location      |
 | ------------- | ------ | ------------- |
 | 01:00 (01 AM) | 18 Wed | Sydney        |
-| 22:00 (11 PM) | 17 Tue | Tokyo         |
+| 23:00 (11 PM) | 17 Tue | Tokyo         |
 | 15:00 (03 PM) | 17 Tue | Brussels      |
 | 14:00 (02 PM) | 17 Tue | London        |
 | 09:00 (09 AM) | 17 Tue | Boston        |
